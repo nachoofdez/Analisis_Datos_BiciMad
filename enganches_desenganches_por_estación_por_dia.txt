@@ -1,0 +1,1737 @@
+Estacion 154:
+Día 2 ----> Frec_desenganche: 59.05555555555556, Frec_enganche: 56.80555555555556
+Día 4 ----> Frec_desenganche: 56.97222222222222, Frec_enganche: 54.25
+Día 0 ----> Frec_desenganche: 57.80555555555556, Frec_enganche: 53.833333333333336
+Día 6 ----> Frec_desenganche: 47.80555555555556, Frec_enganche: 44.72222222222222
+Día 5 ----> Frec_desenganche: 40.138888888888886, Frec_enganche: 38.888888888888886
+Día 1 ----> Frec_desenganche: 59.19444444444444, Frec_enganche: 53.94444444444444
+Día 3 ----> Frec_desenganche: 61.638888888888886, Frec_enganche: 58.083333333333336
+
+
+Estacion 77:
+Día 1 ----> Frec_desenganche: 74.19444444444444, Frec_enganche: 73.0
+Día 5 ----> Frec_desenganche: 67.97222222222223, Frec_enganche: 66.25
+Día 0 ----> Frec_desenganche: 66.30555555555556, Frec_enganche: 70.27777777777777
+Día 3 ----> Frec_desenganche: 74.25, Frec_enganche: 73.72222222222223
+Día 2 ----> Frec_desenganche: 73.36111111111111, Frec_enganche: 74.36111111111111
+Día 4 ----> Frec_desenganche: 74.08333333333333, Frec_enganche: 70.05555555555556
+Día 6 ----> Frec_desenganche: 55.77777777777778, Frec_enganche: 60.05555555555556
+
+
+Estacion 155:
+Día 2 ----> Frec_desenganche: 77.47222222222223, Frec_enganche: 75.91666666666667
+Día 4 ----> Frec_desenganche: 81.19444444444444, Frec_enganche: 79.61111111111111
+Día 0 ----> Frec_desenganche: 69.77777777777777, Frec_enganche: 69.11111111111111
+Día 6 ----> Frec_desenganche: 44.77777777777778, Frec_enganche: 49.69444444444444
+Día 5 ----> Frec_desenganche: 50.77777777777778, Frec_enganche: 52.55555555555556
+Día 1 ----> Frec_desenganche: 74.41666666666667, Frec_enganche: 75.75
+Día 3 ----> Frec_desenganche: 74.19444444444444, Frec_enganche: 73.83333333333333
+
+
+Estacion 1:
+Día 1 ----> Frec_desenganche: 114.47222222222223, Frec_enganche: 115.02777777777777
+Día 6 ----> Frec_desenganche: 89.13888888888889, Frec_enganche: 82.58333333333333
+Día 2 ----> Frec_desenganche: 105.08333333333333, Frec_enganche: 104.25
+Día 3 ----> Frec_desenganche: 106.69444444444444, Frec_enganche: 106.91666666666667
+Día 4 ----> Frec_desenganche: 101.19444444444444, Frec_enganche: 103.41666666666667
+Día 5 ----> Frec_desenganche: 85.38888888888889, Frec_enganche: 85.47222222222223
+Día 0 ----> Frec_desenganche: 104.58333333333333, Frec_enganche: 104.55555555555556
+
+
+Estacion 78:
+Día 1 ----> Frec_desenganche: 84.77777777777777, Frec_enganche: 81.72222222222223
+Día 2 ----> Frec_desenganche: 82.05555555555556, Frec_enganche: 83.02777777777777
+Día 5 ----> Frec_desenganche: 68.27777777777777, Frec_enganche: 69.97222222222223
+Día 0 ----> Frec_desenganche: 77.13888888888889, Frec_enganche: 78.0
+Día 6 ----> Frec_desenganche: 47.0, Frec_enganche: 50.166666666666664
+Día 3 ----> Frec_desenganche: 82.86111111111111, Frec_enganche: 82.83333333333333
+Día 4 ----> Frec_desenganche: 82.30555555555556, Frec_enganche: 82.02777777777777
+
+
+Estacion 2:
+Día 0 ----> Frec_desenganche: 56.02777777777778, Frec_enganche: 53.083333333333336
+Día 1 ----> Frec_desenganche: 63.861111111111114, Frec_enganche: 63.44444444444444
+Día 6 ----> Frec_desenganche: 55.611111111111114, Frec_enganche: 50.25
+Día 2 ----> Frec_desenganche: 52.75, Frec_enganche: 50.69444444444444
+Día 3 ----> Frec_desenganche: 53.25, Frec_enganche: 52.72222222222222
+Día 4 ----> Frec_desenganche: 52.666666666666664, Frec_enganche: 53.80555555555556
+Día 5 ----> Frec_desenganche: 51.666666666666664, Frec_enganche: 53.0
+
+
+Estacion 79:
+Día 1 ----> Frec_desenganche: 106.0, Frec_enganche: 106.0
+Día 2 ----> Frec_desenganche: 106.94444444444444, Frec_enganche: 105.52777777777777
+Día 5 ----> Frec_desenganche: 83.86111111111111, Frec_enganche: 82.94444444444444
+Día 3 ----> Frec_desenganche: 103.61111111111111, Frec_enganche: 105.16666666666667
+Día 6 ----> Frec_desenganche: 55.30555555555556, Frec_enganche: 58.80555555555556
+Día 0 ----> Frec_desenganche: 97.05555555555556, Frec_enganche: 100.52777777777777
+Día 4 ----> Frec_desenganche: 105.27777777777777, Frec_enganche: 97.41666666666667
+
+
+Estacion 156:
+Día 1 ----> Frec_desenganche: 72.5, Frec_enganche: 72.08333333333333
+Día 0 ----> Frec_desenganche: 72.86111111111111, Frec_enganche: 73.55555555555556
+Día 6 ----> Frec_desenganche: 53.02777777777778, Frec_enganche: 54.833333333333336
+Día 5 ----> Frec_desenganche: 53.111111111111114, Frec_enganche: 53.611111111111114
+Día 4 ----> Frec_desenganche: 82.19444444444444, Frec_enganche: 79.83333333333333
+Día 2 ----> Frec_desenganche: 78.91666666666667, Frec_enganche: 79.0
+Día 3 ----> Frec_desenganche: 73.94444444444444, Frec_enganche: 72.91666666666667
+
+
+Estacion 80:
+Día 6 ----> Frec_desenganche: 45.55555555555556, Frec_enganche: 49.27777777777778
+Día 3 ----> Frec_desenganche: 62.861111111111114, Frec_enganche: 62.166666666666664
+Día 1 ----> Frec_desenganche: 59.611111111111114, Frec_enganche: 59.611111111111114
+Día 0 ----> Frec_desenganche: 52.55555555555556, Frec_enganche: 59.77777777777778
+Día 5 ----> Frec_desenganche: 61.27777777777778, Frec_enganche: 57.333333333333336
+Día 4 ----> Frec_desenganche: 62.22222222222222, Frec_enganche: 60.388888888888886
+Día 2 ----> Frec_desenganche: 59.861111111111114, Frec_enganche: 61.166666666666664
+
+
+Estacion 3:
+Día 1 ----> Frec_desenganche: 66.97222222222223, Frec_enganche: 68.69444444444444
+Día 6 ----> Frec_desenganche: 55.44444444444444, Frec_enganche: 50.388888888888886
+Día 0 ----> Frec_desenganche: 72.58333333333333, Frec_enganche: 70.94444444444444
+Día 2 ----> Frec_desenganche: 71.5, Frec_enganche: 72.13888888888889
+Día 3 ----> Frec_desenganche: 71.80555555555556, Frec_enganche: 71.63888888888889
+Día 5 ----> Frec_desenganche: 55.666666666666664, Frec_enganche: 56.388888888888886
+Día 4 ----> Frec_desenganche: 65.69444444444444, Frec_enganche: 70.55555555555556
+
+
+Estacion 157:
+Día 1 ----> Frec_desenganche: 62.25, Frec_enganche: 62.388888888888886
+Día 0 ----> Frec_desenganche: 54.69444444444444, Frec_enganche: 56.52777777777778
+Día 6 ----> Frec_desenganche: 41.888888888888886, Frec_enganche: 43.22222222222222
+Día 5 ----> Frec_desenganche: 43.416666666666664, Frec_enganche: 44.611111111111114
+Día 4 ----> Frec_desenganche: 71.08333333333333, Frec_enganche: 68.33333333333333
+Día 3 ----> Frec_desenganche: 64.5, Frec_enganche: 64.77777777777777
+Día 2 ----> Frec_desenganche: 64.63888888888889, Frec_enganche: 64.61111111111111
+
+
+Estacion 81:
+Día 3 ----> Frec_desenganche: 58.27777777777778, Frec_enganche: 59.27777777777778
+Día 6 ----> Frec_desenganche: 44.611111111111114, Frec_enganche: 47.75
+Día 1 ----> Frec_desenganche: 59.69444444444444, Frec_enganche: 60.52777777777778
+Día 5 ----> Frec_desenganche: 56.27777777777778, Frec_enganche: 53.888888888888886
+Día 0 ----> Frec_desenganche: 55.19444444444444, Frec_enganche: 59.333333333333336
+Día 4 ----> Frec_desenganche: 62.916666666666664, Frec_enganche: 59.77777777777778
+Día 2 ----> Frec_desenganche: 61.583333333333336, Frec_enganche: 61.30555555555556
+
+
+Estacion 4:
+Día 2 ----> Frec_desenganche: 57.44444444444444, Frec_enganche: 58.166666666666664
+Día 0 ----> Frec_desenganche: 50.75, Frec_enganche: 53.80555555555556
+Día 6 ----> Frec_desenganche: 32.0, Frec_enganche: 34.111111111111114
+Día 1 ----> Frec_desenganche: 64.44444444444444, Frec_enganche: 65.11111111111111
+Día 4 ----> Frec_desenganche: 53.75, Frec_enganche: 53.333333333333336
+Día 3 ----> Frec_desenganche: 59.02777777777778, Frec_enganche: 60.0
+Día 5 ----> Frec_desenganche: 40.02777777777778, Frec_enganche: 38.416666666666664
+
+
+Estacion 158:
+Día 3 ----> Frec_desenganche: 42.5, Frec_enganche: 42.80555555555556
+Día 0 ----> Frec_desenganche: 38.97222222222222, Frec_enganche: 36.388888888888886
+Día 6 ----> Frec_desenganche: 20.916666666666668, Frec_enganche: 19.97222222222222
+Día 5 ----> Frec_desenganche: 27.166666666666668, Frec_enganche: 26.805555555555557
+Día 2 ----> Frec_desenganche: 46.388888888888886, Frec_enganche: 42.44444444444444
+Día 4 ----> Frec_desenganche: 51.833333333333336, Frec_enganche: 49.388888888888886
+Día 1 ----> Frec_desenganche: 45.916666666666664, Frec_enganche: 44.166666666666664
+
+
+Estacion 159:
+Día 3 ----> Frec_desenganche: 48.97222222222222, Frec_enganche: 47.80555555555556
+Día 0 ----> Frec_desenganche: 45.5, Frec_enganche: 43.083333333333336
+Día 6 ----> Frec_desenganche: 28.694444444444443, Frec_enganche: 28.333333333333332
+Día 5 ----> Frec_desenganche: 17.0, Frec_enganche: 18.36111111111111
+Día 2 ----> Frec_desenganche: 48.138888888888886, Frec_enganche: 49.583333333333336
+Día 4 ----> Frec_desenganche: 44.80555555555556, Frec_enganche: 44.0
+Día 1 ----> Frec_desenganche: 53.333333333333336, Frec_enganche: 50.583333333333336
+
+
+Estacion 5:
+Día 0 ----> Frec_desenganche: 39.611111111111114, Frec_enganche: 40.833333333333336
+Día 2 ----> Frec_desenganche: 47.72222222222222, Frec_enganche: 46.666666666666664
+Día 1 ----> Frec_desenganche: 56.666666666666664, Frec_enganche: 58.47222222222222
+Día 6 ----> Frec_desenganche: 42.583333333333336, Frec_enganche: 33.138888888888886
+Día 4 ----> Frec_desenganche: 45.72222222222222, Frec_enganche: 51.22222222222222
+Día 5 ----> Frec_desenganche: 46.97222222222222, Frec_enganche: 44.861111111111114
+Día 3 ----> Frec_desenganche: 47.72222222222222, Frec_enganche: 46.30555555555556
+
+
+Estacion 82:
+Día 1 ----> Frec_desenganche: 72.88888888888889, Frec_enganche: 76.52777777777777
+Día 3 ----> Frec_desenganche: 77.86111111111111, Frec_enganche: 81.08333333333333
+Día 5 ----> Frec_desenganche: 74.80555555555556, Frec_enganche: 77.13888888888889
+Día 0 ----> Frec_desenganche: 71.52777777777777, Frec_enganche: 75.22222222222223
+Día 4 ----> Frec_desenganche: 76.13888888888889, Frec_enganche: 75.25
+Día 2 ----> Frec_desenganche: 81.13888888888889, Frec_enganche: 83.22222222222223
+Día 6 ----> Frec_desenganche: 67.22222222222223, Frec_enganche: 73.16666666666667
+
+
+Estacion 160:
+Día 2 ----> Frec_desenganche: 127.63888888888889, Frec_enganche: 129.44444444444446
+Día 3 ----> Frec_desenganche: 128.61111111111111, Frec_enganche: 127.58333333333333
+Día 5 ----> Frec_desenganche: 76.88888888888889, Frec_enganche: 78.83333333333333
+Día 4 ----> Frec_desenganche: 132.27777777777777, Frec_enganche: 131.02777777777777
+Día 6 ----> Frec_desenganche: 67.41666666666667, Frec_enganche: 72.61111111111111
+Día 1 ----> Frec_desenganche: 126.97222222222223, Frec_enganche: 131.25
+Día 0 ----> Frec_desenganche: 120.16666666666667, Frec_enganche: 119.47222222222223
+
+
+Estacion 6:
+Día 2 ----> Frec_desenganche: 100.0, Frec_enganche: 99.83333333333333
+Día 0 ----> Frec_desenganche: 84.05555555555556, Frec_enganche: 84.88888888888889
+Día 1 ----> Frec_desenganche: 110.33333333333333, Frec_enganche: 109.16666666666667
+Día 6 ----> Frec_desenganche: 87.66666666666667, Frec_enganche: 76.30555555555556
+Día 4 ----> Frec_desenganche: 97.22222222222223, Frec_enganche: 100.5
+Día 5 ----> Frec_desenganche: 96.5, Frec_enganche: 91.47222222222223
+Día 3 ----> Frec_desenganche: 95.88888888888889, Frec_enganche: 96.94444444444444
+
+
+Estacion 83:
+Día 3 ----> Frec_desenganche: 117.61111111111111, Frec_enganche: 118.83333333333333
+Día 1 ----> Frec_desenganche: 114.94444444444444, Frec_enganche: 116.63888888888889
+Día 5 ----> Frec_desenganche: 105.38888888888889, Frec_enganche: 105.05555555555556
+Día 0 ----> Frec_desenganche: 101.86111111111111, Frec_enganche: 106.33333333333333
+Día 2 ----> Frec_desenganche: 116.66666666666667, Frec_enganche: 116.55555555555556
+Día 4 ----> Frec_desenganche: 117.36111111111111, Frec_enganche: 111.61111111111111
+Día 6 ----> Frec_desenganche: 77.69444444444444, Frec_enganche: 81.88888888888889
+
+
+Estacion 2008:
+Día 3 ----> Frec_desenganche: 0.3055555555555556, Frec_enganche: 0.3055555555555556
+Día 0 ----> Frec_desenganche: 0.1111111111111111, Frec_enganche: 0.1111111111111111
+Día 1 ----> Frec_desenganche: 0.1388888888888889, Frec_enganche: 0.1388888888888889
+Día 4 ----> Frec_desenganche: 0.5, Frec_enganche: 0.5
+
+
+Estacion 7:
+Día 2 ----> Frec_desenganche: 57.916666666666664, Frec_enganche: 58.72222222222222
+Día 1 ----> Frec_desenganche: 63.72222222222222, Frec_enganche: 63.55555555555556
+Día 6 ----> Frec_desenganche: 40.333333333333336, Frec_enganche: 35.69444444444444
+Día 0 ----> Frec_desenganche: 49.97222222222222, Frec_enganche: 52.97222222222222
+Día 5 ----> Frec_desenganche: 44.55555555555556, Frec_enganche: 44.72222222222222
+Día 4 ----> Frec_desenganche: 48.19444444444444, Frec_enganche: 51.833333333333336
+Día 3 ----> Frec_desenganche: 53.861111111111114, Frec_enganche: 54.25
+
+
+Estacion 161:
+Día 2 ----> Frec_desenganche: 106.47222222222223, Frec_enganche: 106.91666666666667
+Día 3 ----> Frec_desenganche: 109.13888888888889, Frec_enganche: 110.02777777777777
+Día 5 ----> Frec_desenganche: 87.36111111111111, Frec_enganche: 86.66666666666667
+Día 1 ----> Frec_desenganche: 105.27777777777777, Frec_enganche: 104.91666666666667
+Día 4 ----> Frec_desenganche: 117.75, Frec_enganche: 117.22222222222223
+Día 6 ----> Frec_desenganche: 75.13888888888889, Frec_enganche: 73.77777777777777
+Día 0 ----> Frec_desenganche: 93.5, Frec_enganche: 95.91666666666667
+
+
+Estacion 84:
+Día 6 ----> Frec_desenganche: 50.27777777777778, Frec_enganche: 47.861111111111114
+Día 3 ----> Frec_desenganche: 82.25, Frec_enganche: 85.80555555555556
+Día 5 ----> Frec_desenganche: 48.75, Frec_enganche: 45.833333333333336
+Día 4 ----> Frec_desenganche: 88.88888888888889, Frec_enganche: 94.72222222222223
+Día 1 ----> Frec_desenganche: 85.88888888888889, Frec_enganche: 87.77777777777777
+Día 2 ----> Frec_desenganche: 93.52777777777777, Frec_enganche: 93.55555555555556
+Día 0 ----> Frec_desenganche: 84.83333333333333, Frec_enganche: 86.11111111111111
+
+
+Estacion 162:
+Día 0 ----> Frec_desenganche: 127.66666666666667, Frec_enganche: 119.36111111111111
+Día 5 ----> Frec_desenganche: 69.83333333333333, Frec_enganche: 73.0
+Día 3 ----> Frec_desenganche: 137.44444444444446, Frec_enganche: 137.55555555555554
+Día 1 ----> Frec_desenganche: 127.0, Frec_enganche: 128.80555555555554
+Día 6 ----> Frec_desenganche: 62.638888888888886, Frec_enganche: 64.75
+Día 4 ----> Frec_desenganche: 120.25, Frec_enganche: 119.22222222222223
+Día 2 ----> Frec_desenganche: 127.72222222222223, Frec_enganche: 129.30555555555554
+
+
+Estacion 85:
+Día 5 ----> Frec_desenganche: 26.833333333333332, Frec_enganche: 22.916666666666668
+Día 3 ----> Frec_desenganche: 37.5, Frec_enganche: 38.25
+Día 6 ----> Frec_desenganche: 29.833333333333332, Frec_enganche: 25.47222222222222
+Día 4 ----> Frec_desenganche: 39.138888888888886, Frec_enganche: 42.72222222222222
+Día 1 ----> Frec_desenganche: 33.916666666666664, Frec_enganche: 35.388888888888886
+Día 0 ----> Frec_desenganche: 34.44444444444444, Frec_enganche: 34.0
+Día 2 ----> Frec_desenganche: 49.44444444444444, Frec_enganche: 50.333333333333336
+
+
+Estacion 8:
+Día 4 ----> Frec_desenganche: 60.138888888888886, Frec_enganche: 62.94444444444444
+Día 5 ----> Frec_desenganche: 48.138888888888886, Frec_enganche: 47.833333333333336
+Día 0 ----> Frec_desenganche: 60.27777777777778, Frec_enganche: 60.083333333333336
+Día 6 ----> Frec_desenganche: 40.583333333333336, Frec_enganche: 35.80555555555556
+Día 1 ----> Frec_desenganche: 74.13888888888889, Frec_enganche: 74.0
+Día 2 ----> Frec_desenganche: 69.05555555555556, Frec_enganche: 69.05555555555556
+Día 3 ----> Frec_desenganche: 68.63888888888889, Frec_enganche: 68.77777777777777
+
+
+Estacion 9:
+Día 2 ----> Frec_desenganche: 124.52777777777777, Frec_enganche: 124.86111111111111
+Día 4 ----> Frec_desenganche: 113.80555555555556, Frec_enganche: 119.66666666666667
+Día 5 ----> Frec_desenganche: 88.58333333333333, Frec_enganche: 90.05555555555556
+Día 0 ----> Frec_desenganche: 106.83333333333333, Frec_enganche: 102.52777777777777
+Día 1 ----> Frec_desenganche: 118.0, Frec_enganche: 120.22222222222223
+Día 6 ----> Frec_desenganche: 91.66666666666667, Frec_enganche: 82.97222222222223
+Día 3 ----> Frec_desenganche: 125.22222222222223, Frec_enganche: 126.83333333333333
+
+
+Estacion 163:
+Día 0 ----> Frec_desenganche: 151.22222222222223, Frec_enganche: 156.36111111111111
+Día 5 ----> Frec_desenganche: 119.58333333333333, Frec_enganche: 122.19444444444444
+Día 3 ----> Frec_desenganche: 168.13888888888889, Frec_enganche: 169.22222222222223
+Día 1 ----> Frec_desenganche: 172.86111111111111, Frec_enganche: 174.0
+Día 6 ----> Frec_desenganche: 103.52777777777777, Frec_enganche: 105.0
+Día 4 ----> Frec_desenganche: 175.83333333333334, Frec_enganche: 175.30555555555554
+Día 2 ----> Frec_desenganche: 170.69444444444446, Frec_enganche: 172.63888888888889
+
+
+Estacion 86:
+Día 5 ----> Frec_desenganche: 53.80555555555556, Frec_enganche: 54.361111111111114
+Día 6 ----> Frec_desenganche: 60.083333333333336, Frec_enganche: 54.611111111111114
+Día 1 ----> Frec_desenganche: 68.83333333333333, Frec_enganche: 68.88888888888889
+Día 3 ----> Frec_desenganche: 65.66666666666667, Frec_enganche: 66.41666666666667
+Día 4 ----> Frec_desenganche: 70.25, Frec_enganche: 71.30555555555556
+Día 2 ----> Frec_desenganche: 78.16666666666667, Frec_enganche: 76.83333333333333
+Día 0 ----> Frec_desenganche: 65.44444444444444, Frec_enganche: 65.97222222222223
+
+
+Estacion 164:
+Día 6 ----> Frec_desenganche: 52.02777777777778, Frec_enganche: 53.888888888888886
+Día 1 ----> Frec_desenganche: 103.75, Frec_enganche: 105.25
+Día 0 ----> Frec_desenganche: 99.83333333333333, Frec_enganche: 96.33333333333333
+Día 5 ----> Frec_desenganche: 61.80555555555556, Frec_enganche: 64.88888888888889
+Día 4 ----> Frec_desenganche: 109.36111111111111, Frec_enganche: 107.44444444444444
+Día 3 ----> Frec_desenganche: 102.52777777777777, Frec_enganche: 105.0
+Día 2 ----> Frec_desenganche: 105.47222222222223, Frec_enganche: 102.61111111111111
+
+
+Estacion 10:
+Día 3 ----> Frec_desenganche: 62.083333333333336, Frec_enganche: 61.138888888888886
+Día 4 ----> Frec_desenganche: 66.08333333333333, Frec_enganche: 65.02777777777777
+Día 5 ----> Frec_desenganche: 49.55555555555556, Frec_enganche: 50.111111111111114
+Día 0 ----> Frec_desenganche: 75.08333333333333, Frec_enganche: 75.94444444444444
+Día 1 ----> Frec_desenganche: 64.13888888888889, Frec_enganche: 66.16666666666667
+Día 6 ----> Frec_desenganche: 46.416666666666664, Frec_enganche: 45.0
+Día 2 ----> Frec_desenganche: 65.63888888888889, Frec_enganche: 65.44444444444444
+
+
+Estacion 87:
+Día 5 ----> Frec_desenganche: 45.388888888888886, Frec_enganche: 41.75
+Día 6 ----> Frec_desenganche: 32.05555555555556, Frec_enganche: 32.611111111111114
+Día 3 ----> Frec_desenganche: 45.638888888888886, Frec_enganche: 46.638888888888886
+Día 1 ----> Frec_desenganche: 44.55555555555556, Frec_enganche: 44.666666666666664
+Día 2 ----> Frec_desenganche: 46.80555555555556, Frec_enganche: 46.30555555555556
+Día 4 ----> Frec_desenganche: 48.0, Frec_enganche: 45.52777777777778
+Día 0 ----> Frec_desenganche: 36.361111111111114, Frec_enganche: 44.80555555555556
+
+
+Estacion 11:
+Día 3 ----> Frec_desenganche: 51.138888888888886, Frec_enganche: 52.02777777777778
+Día 5 ----> Frec_desenganche: 27.22222222222222, Frec_enganche: 28.11111111111111
+Día 4 ----> Frec_desenganche: 47.52777777777778, Frec_enganche: 49.416666666666664
+Día 1 ----> Frec_desenganche: 51.30555555555556, Frec_enganche: 50.138888888888886
+Día 6 ----> Frec_desenganche: 41.0, Frec_enganche: 38.166666666666664
+Día 0 ----> Frec_desenganche: 47.55555555555556, Frec_enganche: 43.19444444444444
+Día 2 ----> Frec_desenganche: 54.083333333333336, Frec_enganche: 53.97222222222222
+
+
+Estacion 88:
+Día 4 ----> Frec_desenganche: 22.72222222222222, Frec_enganche: 22.63888888888889
+Día 0 ----> Frec_desenganche: 19.694444444444443, Frec_enganche: 17.22222222222222
+Día 2 ----> Frec_desenganche: 22.13888888888889, Frec_enganche: 21.47222222222222
+Día 3 ----> Frec_desenganche: 20.333333333333332, Frec_enganche: 20.833333333333332
+Día 6 ----> Frec_desenganche: 12.444444444444445, Frec_enganche: 13.944444444444445
+Día 5 ----> Frec_desenganche: 31.47222222222222, Frec_enganche: 30.194444444444443
+Día 1 ----> Frec_desenganche: 21.77777777777778, Frec_enganche: 21.166666666666668
+
+
+Estacion 165:
+Día 6 ----> Frec_desenganche: 23.055555555555557, Frec_enganche: 21.833333333333332
+Día 0 ----> Frec_desenganche: 41.0, Frec_enganche: 39.94444444444444
+Día 5 ----> Frec_desenganche: 26.916666666666668, Frec_enganche: 29.0
+Día 4 ----> Frec_desenganche: 48.47222222222222, Frec_enganche: 49.361111111111114
+Día 3 ----> Frec_desenganche: 43.861111111111114, Frec_enganche: 45.55555555555556
+Día 2 ----> Frec_desenganche: 44.72222222222222, Frec_enganche: 44.94444444444444
+Día 1 ----> Frec_desenganche: 46.22222222222222, Frec_enganche: 46.611111111111114
+
+
+Estacion 12:
+Día 4 ----> Frec_desenganche: 56.44444444444444, Frec_enganche: 61.25
+Día 3 ----> Frec_desenganche: 60.888888888888886, Frec_enganche: 58.666666666666664
+Día 5 ----> Frec_desenganche: 57.888888888888886, Frec_enganche: 54.75
+Día 2 ----> Frec_desenganche: 60.80555555555556, Frec_enganche: 61.611111111111114
+Día 0 ----> Frec_desenganche: 48.55555555555556, Frec_enganche: 53.333333333333336
+Día 6 ----> Frec_desenganche: 50.861111111111114, Frec_enganche: 42.30555555555556
+Día 1 ----> Frec_desenganche: 71.75, Frec_enganche: 72.97222222222223
+
+
+Estacion 166:
+Día 6 ----> Frec_desenganche: 60.77777777777778, Frec_enganche: 65.13888888888889
+Día 0 ----> Frec_desenganche: 91.58333333333333, Frec_enganche: 88.33333333333333
+Día 5 ----> Frec_desenganche: 67.61111111111111, Frec_enganche: 69.58333333333333
+Día 4 ----> Frec_desenganche: 94.05555555555556, Frec_enganche: 94.16666666666667
+Día 2 ----> Frec_desenganche: 95.75, Frec_enganche: 96.0
+Día 3 ----> Frec_desenganche: 108.5, Frec_enganche: 109.02777777777777
+Día 1 ----> Frec_desenganche: 96.25, Frec_enganche: 97.44444444444444
+
+
+Estacion 89:
+Día 4 ----> Frec_desenganche: 57.19444444444444, Frec_enganche: 53.52777777777778
+Día 0 ----> Frec_desenganche: 52.25, Frec_enganche: 56.72222222222222
+Día 3 ----> Frec_desenganche: 62.361111111111114, Frec_enganche: 62.52777777777778
+Día 2 ----> Frec_desenganche: 60.55555555555556, Frec_enganche: 61.02777777777778
+Día 6 ----> Frec_desenganche: 44.80555555555556, Frec_enganche: 49.44444444444444
+Día 5 ----> Frec_desenganche: 53.083333333333336, Frec_enganche: 51.5
+Día 1 ----> Frec_desenganche: 57.75, Frec_enganche: 58.19444444444444
+
+
+Estacion 13:
+Día 4 ----> Frec_desenganche: 84.55555555555556, Frec_enganche: 89.0
+Día 6 ----> Frec_desenganche: 68.30555555555556, Frec_enganche: 67.38888888888889
+Día 5 ----> Frec_desenganche: 74.63888888888889, Frec_enganche: 71.83333333333333
+Día 3 ----> Frec_desenganche: 91.0, Frec_enganche: 89.97222222222223
+Día 0 ----> Frec_desenganche: 84.27777777777777, Frec_enganche: 84.66666666666667
+Día 2 ----> Frec_desenganche: 93.33333333333333, Frec_enganche: 93.55555555555556
+Día 1 ----> Frec_desenganche: 100.55555555555556, Frec_enganche: 101.55555555555556
+
+
+Estacion 167:
+Día 6 ----> Frec_desenganche: 50.55555555555556, Frec_enganche: 47.05555555555556
+Día 0 ----> Frec_desenganche: 74.36111111111111, Frec_enganche: 68.88888888888889
+Día 5 ----> Frec_desenganche: 49.5, Frec_enganche: 50.638888888888886
+Día 4 ----> Frec_desenganche: 69.44444444444444, Frec_enganche: 68.72222222222223
+Día 2 ----> Frec_desenganche: 78.91666666666667, Frec_enganche: 79.0
+Día 3 ----> Frec_desenganche: 76.86111111111111, Frec_enganche: 78.02777777777777
+Día 1 ----> Frec_desenganche: 77.27777777777777, Frec_enganche: 76.47222222222223
+
+
+Estacion 90:
+Día 4 ----> Frec_desenganche: 117.36111111111111, Frec_enganche: 119.47222222222223
+Día 0 ----> Frec_desenganche: 112.38888888888889, Frec_enganche: 112.83333333333333
+Día 2 ----> Frec_desenganche: 121.44444444444444, Frec_enganche: 121.47222222222223
+Día 6 ----> Frec_desenganche: 104.88888888888889, Frec_enganche: 104.13888888888889
+Día 3 ----> Frec_desenganche: 123.41666666666667, Frec_enganche: 123.41666666666667
+Día 5 ----> Frec_desenganche: 123.75, Frec_enganche: 127.0
+Día 1 ----> Frec_desenganche: 123.47222222222223, Frec_enganche: 122.02777777777777
+
+
+Estacion 14:
+Día 4 ----> Frec_desenganche: 59.888888888888886, Frec_enganche: 60.77777777777778
+Día 5 ----> Frec_desenganche: 52.44444444444444, Frec_enganche: 51.25
+Día 3 ----> Frec_desenganche: 61.138888888888886, Frec_enganche: 62.69444444444444
+Día 2 ----> Frec_desenganche: 61.583333333333336, Frec_enganche: 59.416666666666664
+Día 0 ----> Frec_desenganche: 52.638888888888886, Frec_enganche: 56.416666666666664
+Día 1 ----> Frec_desenganche: 75.80555555555556, Frec_enganche: 76.08333333333333
+Día 6 ----> Frec_desenganche: 45.888888888888886, Frec_enganche: 43.166666666666664
+
+
+Estacion 168:
+Día 5 ----> Frec_desenganche: 103.38888888888889, Frec_enganche: 104.58333333333333
+Día 4 ----> Frec_desenganche: 142.22222222222223, Frec_enganche: 140.11111111111111
+Día 6 ----> Frec_desenganche: 90.05555555555556, Frec_enganche: 98.61111111111111
+Día 1 ----> Frec_desenganche: 126.5, Frec_enganche: 131.41666666666666
+Día 0 ----> Frec_desenganche: 122.72222222222223, Frec_enganche: 127.16666666666667
+Día 2 ----> Frec_desenganche: 132.36111111111111, Frec_enganche: 137.94444444444446
+Día 3 ----> Frec_desenganche: 134.66666666666666, Frec_enganche: 137.75
+
+
+Estacion 91:
+Día 4 ----> Frec_desenganche: 85.16666666666667, Frec_enganche: 84.36111111111111
+Día 0 ----> Frec_desenganche: 75.52777777777777, Frec_enganche: 71.05555555555556
+Día 2 ----> Frec_desenganche: 93.63888888888889, Frec_enganche: 93.02777777777777
+Día 3 ----> Frec_desenganche: 81.83333333333333, Frec_enganche: 81.08333333333333
+Día 6 ----> Frec_desenganche: 47.77777777777778, Frec_enganche: 46.166666666666664
+Día 5 ----> Frec_desenganche: 51.25, Frec_enganche: 51.30555555555556
+Día 1 ----> Frec_desenganche: 78.72222222222223, Frec_enganche: 75.86111111111111
+
+
+Estacion 169:
+Día 5 ----> Frec_desenganche: 67.94444444444444, Frec_enganche: 68.94444444444444
+Día 4 ----> Frec_desenganche: 89.0, Frec_enganche: 89.22222222222223
+Día 1 ----> Frec_desenganche: 104.33333333333333, Frec_enganche: 106.55555555555556
+Día 6 ----> Frec_desenganche: 67.88888888888889, Frec_enganche: 66.83333333333333
+Día 0 ----> Frec_desenganche: 81.63888888888889, Frec_enganche: 88.58333333333333
+Día 2 ----> Frec_desenganche: 96.22222222222223, Frec_enganche: 96.69444444444444
+Día 3 ----> Frec_desenganche: 93.80555555555556, Frec_enganche: 94.5
+
+
+Estacion 15:
+Día 5 ----> Frec_desenganche: 30.916666666666668, Frec_enganche: 30.916666666666668
+Día 4 ----> Frec_desenganche: 39.72222222222222, Frec_enganche: 41.5
+Día 3 ----> Frec_desenganche: 41.833333333333336, Frec_enganche: 39.55555555555556
+Día 2 ----> Frec_desenganche: 42.0, Frec_enganche: 45.02777777777778
+Día 1 ----> Frec_desenganche: 40.25, Frec_enganche: 40.833333333333336
+Día 6 ----> Frec_desenganche: 37.97222222222222, Frec_enganche: 37.55555555555556
+Día 0 ----> Frec_desenganche: 39.55555555555556, Frec_enganche: 37.916666666666664
+
+
+Estacion 92:
+Día 1 ----> Frec_desenganche: 55.638888888888886, Frec_enganche: 55.94444444444444
+Día 2 ----> Frec_desenganche: 56.97222222222222, Frec_enganche: 58.27777777777778
+Día 0 ----> Frec_desenganche: 56.916666666666664, Frec_enganche: 50.361111111111114
+Día 3 ----> Frec_desenganche: 66.63888888888889, Frec_enganche: 66.41666666666667
+Día 5 ----> Frec_desenganche: 22.583333333333332, Frec_enganche: 25.61111111111111
+Día 6 ----> Frec_desenganche: 20.305555555555557, Frec_enganche: 20.5
+Día 4 ----> Frec_desenganche: 51.19444444444444, Frec_enganche: 53.52777777777778
+
+
+Estacion 16:
+Día 1 ----> Frec_desenganche: 66.38888888888889, Frec_enganche: 66.83333333333333
+Día 2 ----> Frec_desenganche: 56.416666666666664, Frec_enganche: 56.77777777777778
+Día 5 ----> Frec_desenganche: 54.30555555555556, Frec_enganche: 52.166666666666664
+Día 6 ----> Frec_desenganche: 49.638888888888886, Frec_enganche: 48.27777777777778
+Día 3 ----> Frec_desenganche: 57.75, Frec_enganche: 58.47222222222222
+Día 0 ----> Frec_desenganche: 44.916666666666664, Frec_enganche: 47.22222222222222
+Día 4 ----> Frec_desenganche: 55.416666666666664, Frec_enganche: 54.44444444444444
+
+
+Estacion 93:
+Día 1 ----> Frec_desenganche: 69.08333333333333, Frec_enganche: 66.08333333333333
+Día 0 ----> Frec_desenganche: 67.94444444444444, Frec_enganche: 61.833333333333336
+Día 2 ----> Frec_desenganche: 69.91666666666667, Frec_enganche: 67.83333333333333
+Día 5 ----> Frec_desenganche: 29.72222222222222, Frec_enganche: 30.333333333333332
+Día 3 ----> Frec_desenganche: 82.47222222222223, Frec_enganche: 79.05555555555556
+Día 4 ----> Frec_desenganche: 65.55555555555556, Frec_enganche: 64.52777777777777
+Día 6 ----> Frec_desenganche: 24.72222222222222, Frec_enganche: 25.5
+
+
+Estacion 170:
+Día 3 ----> Frec_desenganche: 120.86111111111111, Frec_enganche: 122.38888888888889
+Día 4 ----> Frec_desenganche: 102.16666666666667, Frec_enganche: 100.61111111111111
+Día 1 ----> Frec_desenganche: 107.05555555555556, Frec_enganche: 108.63888888888889
+Día 6 ----> Frec_desenganche: 70.86111111111111, Frec_enganche: 76.0
+Día 2 ----> Frec_desenganche: 110.94444444444444, Frec_enganche: 108.97222222222223
+Día 0 ----> Frec_desenganche: 105.11111111111111, Frec_enganche: 103.16666666666667
+Día 5 ----> Frec_desenganche: 78.86111111111111, Frec_enganche: 79.86111111111111
+
+
+Estacion 17:
+Día 5 ----> Frec_desenganche: 58.666666666666664, Frec_enganche: 58.333333333333336
+Día 2 ----> Frec_desenganche: 73.05555555555556, Frec_enganche: 71.97222222222223
+Día 6 ----> Frec_desenganche: 51.77777777777778, Frec_enganche: 47.888888888888886
+Día 3 ----> Frec_desenganche: 70.61111111111111, Frec_enganche: 70.38888888888889
+Día 0 ----> Frec_desenganche: 60.22222222222222, Frec_enganche: 59.666666666666664
+Día 1 ----> Frec_desenganche: 77.66666666666667, Frec_enganche: 78.75
+Día 4 ----> Frec_desenganche: 69.13888888888889, Frec_enganche: 70.94444444444444
+
+
+Estacion 94:
+Día 2 ----> Frec_desenganche: 47.19444444444444, Frec_enganche: 46.22222222222222
+Día 0 ----> Frec_desenganche: 48.166666666666664, Frec_enganche: 46.861111111111114
+Día 5 ----> Frec_desenganche: 31.194444444444443, Frec_enganche: 32.44444444444444
+Día 6 ----> Frec_desenganche: 28.75, Frec_enganche: 31.88888888888889
+Día 3 ----> Frec_desenganche: 55.55555555555556, Frec_enganche: 55.861111111111114
+Día 4 ----> Frec_desenganche: 49.111111111111114, Frec_enganche: 49.02777777777778
+Día 1 ----> Frec_desenganche: 47.55555555555556, Frec_enganche: 47.25
+
+
+Estacion 171:
+Día 1 ----> Frec_desenganche: 66.38888888888889, Frec_enganche: 64.25
+Día 4 ----> Frec_desenganche: 64.27777777777777, Frec_enganche: 62.333333333333336
+Día 6 ----> Frec_desenganche: 42.666666666666664, Frec_enganche: 49.02777777777778
+Día 2 ----> Frec_desenganche: 67.16666666666667, Frec_enganche: 68.44444444444444
+Día 0 ----> Frec_desenganche: 59.666666666666664, Frec_enganche: 58.388888888888886
+Día 5 ----> Frec_desenganche: 51.69444444444444, Frec_enganche: 50.52777777777778
+Día 3 ----> Frec_desenganche: 75.41666666666667, Frec_enganche: 73.16666666666667
+
+
+Estacion 95:
+Día 4 ----> Frec_desenganche: 86.30555555555556, Frec_enganche: 87.77777777777777
+Día 2 ----> Frec_desenganche: 84.86111111111111, Frec_enganche: 84.08333333333333
+Día 0 ----> Frec_desenganche: 81.69444444444444, Frec_enganche: 75.80555555555556
+Día 5 ----> Frec_desenganche: 53.52777777777778, Frec_enganche: 56.22222222222222
+Día 3 ----> Frec_desenganche: 97.91666666666667, Frec_enganche: 98.19444444444444
+Día 6 ----> Frec_desenganche: 42.52777777777778, Frec_enganche: 39.77777777777778
+Día 1 ----> Frec_desenganche: 83.97222222222223, Frec_enganche: 84.05555555555556
+
+
+Estacion 18:
+Día 4 ----> Frec_desenganche: 52.44444444444444, Frec_enganche: 55.22222222222222
+Día 5 ----> Frec_desenganche: 44.47222222222222, Frec_enganche: 41.44444444444444
+Día 2 ----> Frec_desenganche: 58.30555555555556, Frec_enganche: 58.55555555555556
+Día 6 ----> Frec_desenganche: 37.02777777777778, Frec_enganche: 32.55555555555556
+Día 0 ----> Frec_desenganche: 46.27777777777778, Frec_enganche: 51.22222222222222
+Día 1 ----> Frec_desenganche: 64.05555555555556, Frec_enganche: 66.25
+Día 3 ----> Frec_desenganche: 56.72222222222222, Frec_enganche: 57.19444444444444
+
+
+Estacion 172:
+Día 3 ----> Frec_desenganche: 64.75, Frec_enganche: 65.72222222222223
+Día 2 ----> Frec_desenganche: 67.02777777777777, Frec_enganche: 67.13888888888889
+Día 6 ----> Frec_desenganche: 47.19444444444444, Frec_enganche: 50.416666666666664
+Día 1 ----> Frec_desenganche: 65.11111111111111, Frec_enganche: 65.38888888888889
+Día 0 ----> Frec_desenganche: 62.166666666666664, Frec_enganche: 60.55555555555556
+Día 5 ----> Frec_desenganche: 54.69444444444444, Frec_enganche: 56.69444444444444
+Día 4 ----> Frec_desenganche: 73.66666666666667, Frec_enganche: 72.80555555555556
+
+
+Estacion 19:
+Día 5 ----> Frec_desenganche: 72.94444444444444, Frec_enganche: 74.33333333333333
+Día 2 ----> Frec_desenganche: 82.83333333333333, Frec_enganche: 81.19444444444444
+Día 4 ----> Frec_desenganche: 74.36111111111111, Frec_enganche: 78.97222222222223
+Día 6 ----> Frec_desenganche: 65.52777777777777, Frec_enganche: 59.611111111111114
+Día 3 ----> Frec_desenganche: 76.33333333333333, Frec_enganche: 78.0
+Día 1 ----> Frec_desenganche: 87.47222222222223, Frec_enganche: 89.41666666666667
+Día 0 ----> Frec_desenganche: 71.11111111111111, Frec_enganche: 70.69444444444444
+
+
+Estacion 173:
+Día 3 ----> Frec_desenganche: 23.47222222222222, Frec_enganche: 23.75
+Día 2 ----> Frec_desenganche: 23.72222222222222, Frec_enganche: 22.916666666666668
+Día 1 ----> Frec_desenganche: 24.11111111111111, Frec_enganche: 23.083333333333332
+Día 6 ----> Frec_desenganche: 12.88888888888889, Frec_enganche: 14.5
+Día 0 ----> Frec_desenganche: 21.88888888888889, Frec_enganche: 20.916666666666668
+Día 5 ----> Frec_desenganche: 16.916666666666668, Frec_enganche: 17.833333333333332
+Día 4 ----> Frec_desenganche: 34.25, Frec_enganche: 33.25
+
+
+Estacion 96:
+Día 6 ----> Frec_desenganche: 35.52777777777778, Frec_enganche: 39.27777777777778
+Día 3 ----> Frec_desenganche: 76.13888888888889, Frec_enganche: 75.63888888888889
+Día 2 ----> Frec_desenganche: 66.55555555555556, Frec_enganche: 66.25
+Día 5 ----> Frec_desenganche: 43.55555555555556, Frec_enganche: 42.416666666666664
+Día 4 ----> Frec_desenganche: 64.69444444444444, Frec_enganche: 63.361111111111114
+Día 1 ----> Frec_desenganche: 66.52777777777777, Frec_enganche: 67.33333333333333
+Día 0 ----> Frec_desenganche: 61.0, Frec_enganche: 60.833333333333336
+
+
+Estacion 20:
+Día 0 ----> Frec_desenganche: 51.22222222222222, Frec_enganche: 51.5
+Día 1 ----> Frec_desenganche: 70.05555555555556, Frec_enganche: 69.83333333333333
+Día 6 ----> Frec_desenganche: 31.13888888888889, Frec_enganche: 25.97222222222222
+Día 4 ----> Frec_desenganche: 51.44444444444444, Frec_enganche: 54.083333333333336
+Día 3 ----> Frec_desenganche: 52.97222222222222, Frec_enganche: 51.77777777777778
+Día 2 ----> Frec_desenganche: 55.05555555555556, Frec_enganche: 56.388888888888886
+Día 5 ----> Frec_desenganche: 34.0, Frec_enganche: 36.888888888888886
+
+
+Estacion 174:
+Día 4 ----> Frec_desenganche: 41.666666666666664, Frec_enganche: 39.166666666666664
+Día 3 ----> Frec_desenganche: 39.111111111111114, Frec_enganche: 39.111111111111114
+Día 2 ----> Frec_desenganche: 39.97222222222222, Frec_enganche: 38.27777777777778
+Día 1 ----> Frec_desenganche: 37.44444444444444, Frec_enganche: 39.666666666666664
+Día 6 ----> Frec_desenganche: 34.0, Frec_enganche: 36.5
+Día 5 ----> Frec_desenganche: 39.166666666666664, Frec_enganche: 36.388888888888886
+Día 0 ----> Frec_desenganche: 40.05555555555556, Frec_enganche: 44.388888888888886
+
+
+Estacion 97:
+Día 3 ----> Frec_desenganche: 49.55555555555556, Frec_enganche: 50.388888888888886
+Día 6 ----> Frec_desenganche: 21.194444444444443, Frec_enganche: 21.72222222222222
+Día 2 ----> Frec_desenganche: 40.27777777777778, Frec_enganche: 39.75
+Día 5 ----> Frec_desenganche: 25.694444444444443, Frec_enganche: 29.27777777777778
+Día 1 ----> Frec_desenganche: 40.666666666666664, Frec_enganche: 40.94444444444444
+Día 4 ----> Frec_desenganche: 45.02777777777778, Frec_enganche: 44.30555555555556
+Día 0 ----> Frec_desenganche: 42.0, Frec_enganche: 38.27777777777778
+
+
+Estacion 21:
+Día 0 ----> Frec_desenganche: 53.166666666666664, Frec_enganche: 50.888888888888886
+Día 2 ----> Frec_desenganche: 55.72222222222222, Frec_enganche: 56.77777777777778
+Día 1 ----> Frec_desenganche: 68.05555555555556, Frec_enganche: 69.27777777777777
+Día 6 ----> Frec_desenganche: 42.52777777777778, Frec_enganche: 36.94444444444444
+Día 4 ----> Frec_desenganche: 54.833333333333336, Frec_enganche: 58.361111111111114
+Día 5 ----> Frec_desenganche: 40.27777777777778, Frec_enganche: 44.47222222222222
+Día 3 ----> Frec_desenganche: 56.333333333333336, Frec_enganche: 56.52777777777778
+
+
+Estacion 98:
+Día 0 ----> Frec_desenganche: 41.166666666666664, Frec_enganche: 37.083333333333336
+Día 6 ----> Frec_desenganche: 30.944444444444443, Frec_enganche: 27.916666666666668
+Día 2 ----> Frec_desenganche: 42.94444444444444, Frec_enganche: 41.75
+Día 3 ----> Frec_desenganche: 53.77777777777778, Frec_enganche: 53.80555555555556
+Día 5 ----> Frec_desenganche: 29.52777777777778, Frec_enganche: 33.75
+Día 1 ----> Frec_desenganche: 44.25, Frec_enganche: 43.361111111111114
+Día 4 ----> Frec_desenganche: 42.583333333333336, Frec_enganche: 41.97222222222222
+
+
+Estacion 175:
+Día 4 ----> Frec_desenganche: 110.72222222222223, Frec_enganche: 109.61111111111111
+Día 3 ----> Frec_desenganche: 107.69444444444444, Frec_enganche: 109.47222222222223
+Día 2 ----> Frec_desenganche: 112.22222222222223, Frec_enganche: 112.63888888888889
+Día 1 ----> Frec_desenganche: 105.16666666666667, Frec_enganche: 106.25
+Día 6 ----> Frec_desenganche: 82.97222222222223, Frec_enganche: 89.88888888888889
+Día 5 ----> Frec_desenganche: 88.30555555555556, Frec_enganche: 88.44444444444444
+Día 0 ----> Frec_desenganche: 109.63888888888889, Frec_enganche: 113.77777777777777
+
+
+Estacion 22:
+Día 0 ----> Frec_desenganche: 9.027777777777779, Frec_enganche: 8.194444444444445
+Día 1 ----> Frec_desenganche: 7.722222222222222, Frec_enganche: 7.638888888888889
+Día 3 ----> Frec_desenganche: 8.166666666666666, Frec_enganche: 8.555555555555555
+Día 6 ----> Frec_desenganche: 7.333333333333333, Frec_enganche: 5.416666666666667
+Día 4 ----> Frec_desenganche: 8.666666666666666, Frec_enganche: 9.38888888888889
+Día 5 ----> Frec_desenganche: 5.0, Frec_enganche: 5.722222222222222
+Día 2 ----> Frec_desenganche: 10.36111111111111, Frec_enganche: 9.75
+
+
+Estacion 99:
+Día 6 ----> Frec_desenganche: 46.25, Frec_enganche: 42.27777777777778
+Día 0 ----> Frec_desenganche: 71.22222222222223, Frec_enganche: 66.91666666666667
+Día 3 ----> Frec_desenganche: 85.69444444444444, Frec_enganche: 84.44444444444444
+Día 2 ----> Frec_desenganche: 76.5, Frec_enganche: 73.94444444444444
+Día 5 ----> Frec_desenganche: 50.27777777777778, Frec_enganche: 50.75
+Día 1 ----> Frec_desenganche: 76.75, Frec_enganche: 73.83333333333333
+Día 4 ----> Frec_desenganche: 73.27777777777777, Frec_enganche: 73.33333333333333
+
+
+Estacion 100:
+Día 1 ----> Frec_desenganche: 44.30555555555556, Frec_enganche: 44.583333333333336
+Día 2 ----> Frec_desenganche: 44.25, Frec_enganche: 44.77777777777778
+Día 0 ----> Frec_desenganche: 42.27777777777778, Frec_enganche: 37.333333333333336
+Día 6 ----> Frec_desenganche: 22.77777777777778, Frec_enganche: 21.583333333333332
+Día 3 ----> Frec_desenganche: 55.69444444444444, Frec_enganche: 55.55555555555556
+Día 5 ----> Frec_desenganche: 25.61111111111111, Frec_enganche: 30.75
+Día 4 ----> Frec_desenganche: 47.611111111111114, Frec_enganche: 48.22222222222222
+
+
+Estacion 23:
+Día 1 ----> Frec_desenganche: 98.86111111111111, Frec_enganche: 97.55555555555556
+Día 0 ----> Frec_desenganche: 96.77777777777777, Frec_enganche: 95.0
+Día 6 ----> Frec_desenganche: 82.0, Frec_enganche: 77.30555555555556
+Día 5 ----> Frec_desenganche: 81.88888888888889, Frec_enganche: 82.66666666666667
+Día 2 ----> Frec_desenganche: 95.02777777777777, Frec_enganche: 94.25
+Día 4 ----> Frec_desenganche: 91.44444444444444, Frec_enganche: 92.25
+Día 3 ----> Frec_desenganche: 97.05555555555556, Frec_enganche: 97.55555555555556
+
+
+Estacion 24:
+Día 3 ----> Frec_desenganche: 53.666666666666664, Frec_enganche: 53.02777777777778
+Día 4 ----> Frec_desenganche: 51.666666666666664, Frec_enganche: 52.583333333333336
+Día 0 ----> Frec_desenganche: 56.55555555555556, Frec_enganche: 55.05555555555556
+Día 5 ----> Frec_desenganche: 49.583333333333336, Frec_enganche: 48.638888888888886
+Día 1 ----> Frec_desenganche: 48.583333333333336, Frec_enganche: 46.166666666666664
+Día 2 ----> Frec_desenganche: 52.75, Frec_enganche: 51.416666666666664
+Día 6 ----> Frec_desenganche: 48.25, Frec_enganche: 44.0
+
+
+Estacion 101:
+Día 0 ----> Frec_desenganche: 40.138888888888886, Frec_enganche: 35.77777777777778
+Día 2 ----> Frec_desenganche: 45.083333333333336, Frec_enganche: 43.27777777777778
+Día 5 ----> Frec_desenganche: 29.22222222222222, Frec_enganche: 31.72222222222222
+Día 3 ----> Frec_desenganche: 54.416666666666664, Frec_enganche: 53.5
+Día 6 ----> Frec_desenganche: 26.694444444444443, Frec_enganche: 27.416666666666668
+Día 4 ----> Frec_desenganche: 41.75, Frec_enganche: 40.0
+Día 1 ----> Frec_desenganche: 42.22222222222222, Frec_enganche: 41.361111111111114
+
+
+Estacion 25:
+Día 6 ----> Frec_desenganche: 50.166666666666664, Frec_enganche: 45.75
+Día 3 ----> Frec_desenganche: 56.583333333333336, Frec_enganche: 57.388888888888886
+Día 4 ----> Frec_desenganche: 56.166666666666664, Frec_enganche: 59.361111111111114
+Día 0 ----> Frec_desenganche: 64.97222222222223, Frec_enganche: 62.138888888888886
+Día 5 ----> Frec_desenganche: 49.19444444444444, Frec_enganche: 50.583333333333336
+Día 1 ----> Frec_desenganche: 58.333333333333336, Frec_enganche: 58.138888888888886
+Día 2 ----> Frec_desenganche: 58.80555555555556, Frec_enganche: 61.22222222222222
+
+
+Estacion 102:
+Día 2 ----> Frec_desenganche: 54.833333333333336, Frec_enganche: 52.916666666666664
+Día 0 ----> Frec_desenganche: 47.69444444444444, Frec_enganche: 45.02777777777778
+Día 5 ----> Frec_desenganche: 40.833333333333336, Frec_enganche: 40.916666666666664
+Día 6 ----> Frec_desenganche: 38.02777777777778, Frec_enganche: 36.666666666666664
+Día 3 ----> Frec_desenganche: 66.41666666666667, Frec_enganche: 63.166666666666664
+Día 4 ----> Frec_desenganche: 57.97222222222222, Frec_enganche: 57.416666666666664
+Día 1 ----> Frec_desenganche: 52.19444444444444, Frec_enganche: 49.55555555555556
+
+
+Estacion 103:
+Día 2 ----> Frec_desenganche: 69.36111111111111, Frec_enganche: 68.38888888888889
+Día 5 ----> Frec_desenganche: 60.416666666666664, Frec_enganche: 62.05555555555556
+Día 6 ----> Frec_desenganche: 57.138888888888886, Frec_enganche: 58.05555555555556
+Día 0 ----> Frec_desenganche: 58.75, Frec_enganche: 57.666666666666664
+Día 3 ----> Frec_desenganche: 79.52777777777777, Frec_enganche: 80.63888888888889
+Día 4 ----> Frec_desenganche: 70.55555555555556, Frec_enganche: 70.38888888888889
+Día 1 ----> Frec_desenganche: 62.25, Frec_enganche: 63.72222222222222
+
+
+Estacion 26:
+Día 3 ----> Frec_desenganche: 86.91666666666667, Frec_enganche: 88.0
+Día 4 ----> Frec_desenganche: 82.72222222222223, Frec_enganche: 86.30555555555556
+Día 5 ----> Frec_desenganche: 73.66666666666667, Frec_enganche: 75.41666666666667
+Día 0 ----> Frec_desenganche: 84.41666666666667, Frec_enganche: 80.55555555555556
+Día 1 ----> Frec_desenganche: 82.27777777777777, Frec_enganche: 81.0
+Día 2 ----> Frec_desenganche: 84.80555555555556, Frec_enganche: 86.22222222222223
+Día 6 ----> Frec_desenganche: 78.0, Frec_enganche: 72.80555555555556
+
+
+Estacion 104:
+Día 5 ----> Frec_desenganche: 22.88888888888889, Frec_enganche: 23.36111111111111
+Día 4 ----> Frec_desenganche: 31.333333333333332, Frec_enganche: 30.47222222222222
+Día 1 ----> Frec_desenganche: 34.583333333333336, Frec_enganche: 35.05555555555556
+Día 0 ----> Frec_desenganche: 36.333333333333336, Frec_enganche: 35.416666666666664
+Día 3 ----> Frec_desenganche: 45.55555555555556, Frec_enganche: 45.69444444444444
+Día 6 ----> Frec_desenganche: 21.13888888888889, Frec_enganche: 24.694444444444443
+Día 2 ----> Frec_desenganche: 37.27777777777778, Frec_enganche: 35.05555555555556
+
+
+Estacion 27:
+Día 3 ----> Frec_desenganche: 49.861111111111114, Frec_enganche: 47.02777777777778
+Día 5 ----> Frec_desenganche: 41.75, Frec_enganche: 42.888888888888886
+Día 1 ----> Frec_desenganche: 50.72222222222222, Frec_enganche: 49.166666666666664
+Día 4 ----> Frec_desenganche: 48.94444444444444, Frec_enganche: 50.166666666666664
+Día 0 ----> Frec_desenganche: 57.916666666666664, Frec_enganche: 57.97222222222222
+Día 2 ----> Frec_desenganche: 49.77777777777778, Frec_enganche: 49.44444444444444
+Día 6 ----> Frec_desenganche: 43.94444444444444, Frec_enganche: 41.44444444444444
+
+
+Estacion 105:
+Día 2 ----> Frec_desenganche: 35.861111111111114, Frec_enganche: 33.22222222222222
+Día 4 ----> Frec_desenganche: 35.888888888888886, Frec_enganche: 35.30555555555556
+Día 1 ----> Frec_desenganche: 34.72222222222222, Frec_enganche: 33.25
+Día 0 ----> Frec_desenganche: 32.19444444444444, Frec_enganche: 29.055555555555557
+Día 3 ----> Frec_desenganche: 46.166666666666664, Frec_enganche: 45.52777777777778
+Día 6 ----> Frec_desenganche: 25.555555555555557, Frec_enganche: 26.86111111111111
+Día 5 ----> Frec_desenganche: 27.916666666666668, Frec_enganche: 28.77777777777778
+
+
+Estacion 28:
+Día 6 ----> Frec_desenganche: 13.25, Frec_enganche: 11.86111111111111
+Día 4 ----> Frec_desenganche: 14.11111111111111, Frec_enganche: 12.722222222222221
+Día 3 ----> Frec_desenganche: 16.055555555555557, Frec_enganche: 15.305555555555555
+Día 5 ----> Frec_desenganche: 14.444444444444445, Frec_enganche: 14.13888888888889
+Día 2 ----> Frec_desenganche: 16.25, Frec_enganche: 15.972222222222221
+Día 0 ----> Frec_desenganche: 27.166666666666668, Frec_enganche: 25.805555555555557
+Día 1 ----> Frec_desenganche: 15.416666666666666, Frec_enganche: 14.416666666666666
+
+
+Estacion 29:
+Día 4 ----> Frec_desenganche: 21.416666666666668, Frec_enganche: 21.36111111111111
+Día 6 ----> Frec_desenganche: 17.25, Frec_enganche: 15.194444444444445
+Día 5 ----> Frec_desenganche: 19.77777777777778, Frec_enganche: 18.63888888888889
+Día 3 ----> Frec_desenganche: 22.36111111111111, Frec_enganche: 21.86111111111111
+Día 0 ----> Frec_desenganche: 30.25, Frec_enganche: 30.75
+Día 2 ----> Frec_desenganche: 23.77777777777778, Frec_enganche: 24.27777777777778
+Día 1 ----> Frec_desenganche: 22.02777777777778, Frec_enganche: 20.083333333333332
+
+
+Estacion 106:
+Día 1 ----> Frec_desenganche: 62.833333333333336, Frec_enganche: 63.52777777777778
+Día 4 ----> Frec_desenganche: 63.388888888888886, Frec_enganche: 61.44444444444444
+Día 0 ----> Frec_desenganche: 55.19444444444444, Frec_enganche: 55.583333333333336
+Día 6 ----> Frec_desenganche: 40.05555555555556, Frec_enganche: 45.166666666666664
+Día 3 ----> Frec_desenganche: 70.83333333333333, Frec_enganche: 71.77777777777777
+Día 2 ----> Frec_desenganche: 60.638888888888886, Frec_enganche: 59.02777777777778
+Día 5 ----> Frec_desenganche: 45.333333333333336, Frec_enganche: 41.833333333333336
+
+
+Estacion 30:
+Día 6 ----> Frec_desenganche: 55.111111111111114, Frec_enganche: 53.916666666666664
+Día 4 ----> Frec_desenganche: 79.27777777777777, Frec_enganche: 81.83333333333333
+Día 5 ----> Frec_desenganche: 55.94444444444444, Frec_enganche: 56.583333333333336
+Día 3 ----> Frec_desenganche: 83.11111111111111, Frec_enganche: 82.13888888888889
+Día 2 ----> Frec_desenganche: 87.30555555555556, Frec_enganche: 88.02777777777777
+Día 0 ----> Frec_desenganche: 79.44444444444444, Frec_enganche: 76.47222222222223
+Día 1 ----> Frec_desenganche: 89.22222222222223, Frec_enganche: 90.66666666666667
+
+
+Estacion 107:
+Día 1 ----> Frec_desenganche: 40.583333333333336, Frec_enganche: 41.22222222222222
+Día 4 ----> Frec_desenganche: 39.083333333333336, Frec_enganche: 41.166666666666664
+Día 3 ----> Frec_desenganche: 55.166666666666664, Frec_enganche: 55.77777777777778
+Día 6 ----> Frec_desenganche: 25.97222222222222, Frec_enganche: 25.11111111111111
+Día 0 ----> Frec_desenganche: 39.166666666666664, Frec_enganche: 35.69444444444444
+Día 2 ----> Frec_desenganche: 38.27777777777778, Frec_enganche: 39.19444444444444
+Día 5 ----> Frec_desenganche: 28.86111111111111, Frec_enganche: 32.861111111111114
+
+
+Estacion 108:
+Día 4 ----> Frec_desenganche: 112.33333333333333, Frec_enganche: 110.33333333333333
+Día 1 ----> Frec_desenganche: 120.75, Frec_enganche: 117.5
+Día 2 ----> Frec_desenganche: 118.02777777777777, Frec_enganche: 114.08333333333333
+Día 0 ----> Frec_desenganche: 113.30555555555556, Frec_enganche: 105.77777777777777
+Día 3 ----> Frec_desenganche: 123.66666666666667, Frec_enganche: 120.52777777777777
+Día 5 ----> Frec_desenganche: 67.41666666666667, Frec_enganche: 66.33333333333333
+Día 6 ----> Frec_desenganche: 47.638888888888886, Frec_enganche: 48.416666666666664
+
+
+Estacion 31:
+Día 6 ----> Frec_desenganche: 56.52777777777778, Frec_enganche: 55.138888888888886
+Día 5 ----> Frec_desenganche: 64.08333333333333, Frec_enganche: 64.33333333333333
+Día 4 ----> Frec_desenganche: 84.83333333333333, Frec_enganche: 86.47222222222223
+Día 3 ----> Frec_desenganche: 87.13888888888889, Frec_enganche: 88.52777777777777
+Día 2 ----> Frec_desenganche: 100.19444444444444, Frec_enganche: 98.52777777777777
+Día 1 ----> Frec_desenganche: 85.66666666666667, Frec_enganche: 86.77777777777777
+Día 0 ----> Frec_desenganche: 83.5, Frec_enganche: 84.19444444444444
+
+
+Estacion 109:
+Día 4 ----> Frec_desenganche: 51.80555555555556, Frec_enganche: 51.94444444444444
+Día 6 ----> Frec_desenganche: 22.77777777777778, Frec_enganche: 19.75
+Día 1 ----> Frec_desenganche: 49.27777777777778, Frec_enganche: 45.861111111111114
+Día 5 ----> Frec_desenganche: 24.916666666666668, Frec_enganche: 25.13888888888889
+Día 0 ----> Frec_desenganche: 46.666666666666664, Frec_enganche: 41.97222222222222
+Día 3 ----> Frec_desenganche: 60.27777777777778, Frec_enganche: 57.638888888888886
+Día 2 ----> Frec_desenganche: 51.72222222222222, Frec_enganche: 49.083333333333336
+
+
+Estacion 32:
+Día 4 ----> Frec_desenganche: 46.25, Frec_enganche: 49.111111111111114
+Día 0 ----> Frec_desenganche: 52.111111111111114, Frec_enganche: 47.361111111111114
+Día 5 ----> Frec_desenganche: 30.194444444444443, Frec_enganche: 32.72222222222222
+Día 6 ----> Frec_desenganche: 30.63888888888889, Frec_enganche: 27.916666666666668
+Día 1 ----> Frec_desenganche: 60.361111111111114, Frec_enganche: 59.138888888888886
+Día 2 ----> Frec_desenganche: 50.22222222222222, Frec_enganche: 49.44444444444444
+Día 3 ----> Frec_desenganche: 47.583333333333336, Frec_enganche: 49.888888888888886
+
+
+Estacion 110:
+Día 4 ----> Frec_desenganche: 78.86111111111111, Frec_enganche: 77.66666666666667
+Día 1 ----> Frec_desenganche: 76.63888888888889, Frec_enganche: 74.22222222222223
+Día 2 ----> Frec_desenganche: 73.91666666666667, Frec_enganche: 71.13888888888889
+Día 5 ----> Frec_desenganche: 51.02777777777778, Frec_enganche: 51.083333333333336
+Día 0 ----> Frec_desenganche: 72.77777777777777, Frec_enganche: 68.25
+Día 6 ----> Frec_desenganche: 41.083333333333336, Frec_enganche: 38.416666666666664
+Día 3 ----> Frec_desenganche: 84.05555555555556, Frec_enganche: 84.08333333333333
+
+
+Estacion 33:
+Día 4 ----> Frec_desenganche: 54.94444444444444, Frec_enganche: 56.583333333333336
+Día 5 ----> Frec_desenganche: 33.75, Frec_enganche: 36.861111111111114
+Día 0 ----> Frec_desenganche: 64.05555555555556, Frec_enganche: 61.27777777777778
+Día 1 ----> Frec_desenganche: 59.72222222222222, Frec_enganche: 60.05555555555556
+Día 6 ----> Frec_desenganche: 34.888888888888886, Frec_enganche: 33.44444444444444
+Día 2 ----> Frec_desenganche: 72.02777777777777, Frec_enganche: 72.86111111111111
+Día 3 ----> Frec_desenganche: 60.111111111111114, Frec_enganche: 60.69444444444444
+
+
+Estacion 34:
+Día 3 ----> Frec_desenganche: 44.69444444444444, Frec_enganche: 44.138888888888886
+Día 4 ----> Frec_desenganche: 43.611111111111114, Frec_enganche: 42.611111111111114
+Día 5 ----> Frec_desenganche: 33.888888888888886, Frec_enganche: 33.888888888888886
+Día 0 ----> Frec_desenganche: 60.083333333333336, Frec_enganche: 57.72222222222222
+Día 1 ----> Frec_desenganche: 44.638888888888886, Frec_enganche: 42.30555555555556
+Día 6 ----> Frec_desenganche: 34.166666666666664, Frec_enganche: 34.138888888888886
+Día 2 ----> Frec_desenganche: 45.30555555555556, Frec_enganche: 45.72222222222222
+
+
+Estacion 111:
+Día 4 ----> Frec_desenganche: 44.30555555555556, Frec_enganche: 43.52777777777778
+Día 1 ----> Frec_desenganche: 39.22222222222222, Frec_enganche: 36.30555555555556
+Día 2 ----> Frec_desenganche: 40.72222222222222, Frec_enganche: 37.75
+Día 5 ----> Frec_desenganche: 26.333333333333332, Frec_enganche: 26.36111111111111
+Día 3 ----> Frec_desenganche: 46.0, Frec_enganche: 44.083333333333336
+Día 6 ----> Frec_desenganche: 18.52777777777778, Frec_enganche: 16.72222222222222
+Día 0 ----> Frec_desenganche: 38.05555555555556, Frec_enganche: 32.888888888888886
+
+
+Estacion 112:
+Día 2 ----> Frec_desenganche: 43.388888888888886, Frec_enganche: 41.05555555555556
+Día 6 ----> Frec_desenganche: 23.11111111111111, Frec_enganche: 21.444444444444443
+Día 3 ----> Frec_desenganche: 50.44444444444444, Frec_enganche: 49.47222222222222
+Día 1 ----> Frec_desenganche: 42.388888888888886, Frec_enganche: 40.388888888888886
+Día 0 ----> Frec_desenganche: 39.166666666666664, Frec_enganche: 36.47222222222222
+Día 5 ----> Frec_desenganche: 30.02777777777778, Frec_enganche: 29.75
+Día 4 ----> Frec_desenganche: 49.0, Frec_enganche: 49.416666666666664
+
+
+Estacion 35:
+Día 5 ----> Frec_desenganche: 40.083333333333336, Frec_enganche: 41.361111111111114
+Día 4 ----> Frec_desenganche: 46.19444444444444, Frec_enganche: 48.833333333333336
+Día 1 ----> Frec_desenganche: 44.94444444444444, Frec_enganche: 45.916666666666664
+Día 6 ----> Frec_desenganche: 42.19444444444444, Frec_enganche: 41.47222222222222
+Día 0 ----> Frec_desenganche: 59.25, Frec_enganche: 56.666666666666664
+Día 2 ----> Frec_desenganche: 48.138888888888886, Frec_enganche: 48.97222222222222
+Día 3 ----> Frec_desenganche: 49.388888888888886, Frec_enganche: 48.861111111111114
+
+
+Estacion 36:
+Día 3 ----> Frec_desenganche: 44.138888888888886, Frec_enganche: 43.69444444444444
+Día 5 ----> Frec_desenganche: 35.333333333333336, Frec_enganche: 34.666666666666664
+Día 2 ----> Frec_desenganche: 38.833333333333336, Frec_enganche: 38.25
+Día 0 ----> Frec_desenganche: 45.02777777777778, Frec_enganche: 44.52777777777778
+Día 6 ----> Frec_desenganche: 31.305555555555557, Frec_enganche: 32.27777777777778
+Día 1 ----> Frec_desenganche: 38.583333333333336, Frec_enganche: 38.916666666666664
+Día 4 ----> Frec_desenganche: 42.02777777777778, Frec_enganche: 43.138888888888886
+
+
+Estacion 113:
+Día 2 ----> Frec_desenganche: 83.13888888888889, Frec_enganche: 80.94444444444444
+Día 3 ----> Frec_desenganche: 97.13888888888889, Frec_enganche: 94.94444444444444
+Día 6 ----> Frec_desenganche: 48.44444444444444, Frec_enganche: 46.083333333333336
+Día 1 ----> Frec_desenganche: 83.55555555555556, Frec_enganche: 82.55555555555556
+Día 5 ----> Frec_desenganche: 52.72222222222222, Frec_enganche: 53.27777777777778
+Día 0 ----> Frec_desenganche: 83.41666666666667, Frec_enganche: 78.19444444444444
+Día 4 ----> Frec_desenganche: 82.25, Frec_enganche: 84.86111111111111
+
+
+Estacion 114:
+Día 4 ----> Frec_desenganche: 101.72222222222223, Frec_enganche: 99.52777777777777
+Día 2 ----> Frec_desenganche: 96.86111111111111, Frec_enganche: 98.75
+Día 6 ----> Frec_desenganche: 66.72222222222223, Frec_enganche: 73.5
+Día 1 ----> Frec_desenganche: 98.63888888888889, Frec_enganche: 97.02777777777777
+Día 3 ----> Frec_desenganche: 109.83333333333333, Frec_enganche: 111.75
+Día 5 ----> Frec_desenganche: 74.86111111111111, Frec_enganche: 76.52777777777777
+Día 0 ----> Frec_desenganche: 93.38888888888889, Frec_enganche: 95.05555555555556
+
+
+Estacion 37:
+Día 5 ----> Frec_desenganche: 26.055555555555557, Frec_enganche: 27.36111111111111
+Día 3 ----> Frec_desenganche: 28.25, Frec_enganche: 27.5
+Día 0 ----> Frec_desenganche: 35.02777777777778, Frec_enganche: 33.666666666666664
+Día 2 ----> Frec_desenganche: 28.166666666666668, Frec_enganche: 27.88888888888889
+Día 1 ----> Frec_desenganche: 27.805555555555557, Frec_enganche: 29.305555555555557
+Día 6 ----> Frec_desenganche: 25.333333333333332, Frec_enganche: 21.944444444444443
+Día 4 ----> Frec_desenganche: 26.416666666666668, Frec_enganche: 28.75
+
+
+Estacion 115:
+Día 2 ----> Frec_desenganche: 75.63888888888889, Frec_enganche: 75.58333333333333
+Día 4 ----> Frec_desenganche: 75.63888888888889, Frec_enganche: 76.86111111111111
+Día 6 ----> Frec_desenganche: 33.22222222222222, Frec_enganche: 32.666666666666664
+Día 3 ----> Frec_desenganche: 86.77777777777777, Frec_enganche: 86.33333333333333
+Día 1 ----> Frec_desenganche: 76.63888888888889, Frec_enganche: 75.91666666666667
+Día 5 ----> Frec_desenganche: 39.97222222222222, Frec_enganche: 39.77777777777778
+Día 0 ----> Frec_desenganche: 73.05555555555556, Frec_enganche: 67.47222222222223
+
+
+Estacion 38:
+Día 3 ----> Frec_desenganche: 97.08333333333333, Frec_enganche: 97.66666666666667
+Día 2 ----> Frec_desenganche: 93.19444444444444, Frec_enganche: 96.61111111111111
+Día 0 ----> Frec_desenganche: 92.80555555555556, Frec_enganche: 92.83333333333333
+Día 1 ----> Frec_desenganche: 88.16666666666667, Frec_enganche: 87.75
+Día 6 ----> Frec_desenganche: 78.77777777777777, Frec_enganche: 74.19444444444444
+Día 4 ----> Frec_desenganche: 89.41666666666667, Frec_enganche: 94.30555555555556
+Día 5 ----> Frec_desenganche: 75.94444444444444, Frec_enganche: 75.5
+
+
+Estacion 116:
+Día 0 ----> Frec_desenganche: 46.97222222222222, Frec_enganche: 46.0
+Día 6 ----> Frec_desenganche: 48.388888888888886, Frec_enganche: 47.111111111111114
+Día 3 ----> Frec_desenganche: 52.638888888888886, Frec_enganche: 53.333333333333336
+Día 5 ----> Frec_desenganche: 40.27777777777778, Frec_enganche: 38.25
+Día 4 ----> Frec_desenganche: 49.44444444444444, Frec_enganche: 50.611111111111114
+Día 1 ----> Frec_desenganche: 52.083333333333336, Frec_enganche: 51.55555555555556
+Día 2 ----> Frec_desenganche: 50.52777777777778, Frec_enganche: 51.388888888888886
+
+
+Estacion 39:
+Día 4 ----> Frec_desenganche: 43.138888888888886, Frec_enganche: 42.52777777777778
+Día 3 ----> Frec_desenganche: 45.0, Frec_enganche: 45.0
+Día 2 ----> Frec_desenganche: 44.80555555555556, Frec_enganche: 45.361111111111114
+Día 1 ----> Frec_desenganche: 41.72222222222222, Frec_enganche: 43.861111111111114
+Día 6 ----> Frec_desenganche: 31.055555555555557, Frec_enganche: 28.583333333333332
+Día 0 ----> Frec_desenganche: 49.75, Frec_enganche: 49.833333333333336
+Día 5 ----> Frec_desenganche: 36.638888888888886, Frec_enganche: 36.55555555555556
+
+
+Estacion 117:
+Día 0 ----> Frec_desenganche: 32.611111111111114, Frec_enganche: 30.583333333333332
+Día 2 ----> Frec_desenganche: 36.583333333333336, Frec_enganche: 33.94444444444444
+Día 5 ----> Frec_desenganche: 26.944444444444443, Frec_enganche: 27.72222222222222
+Día 3 ----> Frec_desenganche: 40.416666666666664, Frec_enganche: 39.94444444444444
+Día 6 ----> Frec_desenganche: 37.55555555555556, Frec_enganche: 35.416666666666664
+Día 4 ----> Frec_desenganche: 36.27777777777778, Frec_enganche: 34.80555555555556
+Día 1 ----> Frec_desenganche: 36.30555555555556, Frec_enganche: 35.916666666666664
+
+
+Estacion 40:
+Día 6 ----> Frec_desenganche: 33.72222222222222, Frec_enganche: 33.30555555555556
+Día 1 ----> Frec_desenganche: 40.47222222222222, Frec_enganche: 41.333333333333336
+Día 2 ----> Frec_desenganche: 41.27777777777778, Frec_enganche: 40.97222222222222
+Día 3 ----> Frec_desenganche: 43.888888888888886, Frec_enganche: 43.55555555555556
+Día 4 ----> Frec_desenganche: 43.5, Frec_enganche: 43.05555555555556
+Día 5 ----> Frec_desenganche: 37.05555555555556, Frec_enganche: 37.111111111111114
+Día 0 ----> Frec_desenganche: 50.72222222222222, Frec_enganche: 51.416666666666664
+
+
+Estacion 118:
+Día 0 ----> Frec_desenganche: 66.63888888888889, Frec_enganche: 68.58333333333333
+Día 5 ----> Frec_desenganche: 53.361111111111114, Frec_enganche: 52.69444444444444
+Día 6 ----> Frec_desenganche: 59.05555555555556, Frec_enganche: 58.166666666666664
+Día 1 ----> Frec_desenganche: 71.13888888888889, Frec_enganche: 72.75
+Día 3 ----> Frec_desenganche: 76.41666666666667, Frec_enganche: 78.33333333333333
+Día 4 ----> Frec_desenganche: 71.16666666666667, Frec_enganche: 72.33333333333333
+Día 2 ----> Frec_desenganche: 74.97222222222223, Frec_enganche: 74.22222222222223
+
+
+Estacion 41:
+Día 6 ----> Frec_desenganche: 63.44444444444444, Frec_enganche: 67.25
+Día 3 ----> Frec_desenganche: 93.97222222222223, Frec_enganche: 93.97222222222223
+Día 2 ----> Frec_desenganche: 98.11111111111111, Frec_enganche: 97.94444444444444
+Día 4 ----> Frec_desenganche: 95.36111111111111, Frec_enganche: 92.80555555555556
+Día 5 ----> Frec_desenganche: 72.5, Frec_enganche: 70.02777777777777
+Día 0 ----> Frec_desenganche: 91.63888888888889, Frec_enganche: 95.72222222222223
+Día 1 ----> Frec_desenganche: 91.36111111111111, Frec_enganche: 91.75
+
+
+Estacion 42:
+Día 6 ----> Frec_desenganche: 73.02777777777777, Frec_enganche: 74.88888888888889
+Día 2 ----> Frec_desenganche: 88.38888888888889, Frec_enganche: 88.22222222222223
+Día 3 ----> Frec_desenganche: 91.33333333333333, Frec_enganche: 92.16666666666667
+Día 4 ----> Frec_desenganche: 91.94444444444444, Frec_enganche: 89.88888888888889
+Día 5 ----> Frec_desenganche: 76.66666666666667, Frec_enganche: 72.75
+Día 0 ----> Frec_desenganche: 85.77777777777777, Frec_enganche: 90.38888888888889
+Día 1 ----> Frec_desenganche: 85.97222222222223, Frec_enganche: 84.80555555555556
+
+
+Estacion 119:
+Día 0 ----> Frec_desenganche: 16.833333333333332, Frec_enganche: 16.27777777777778
+Día 5 ----> Frec_desenganche: 14.13888888888889, Frec_enganche: 14.38888888888889
+Día 6 ----> Frec_desenganche: 24.416666666666668, Frec_enganche: 25.444444444444443
+Día 3 ----> Frec_desenganche: 21.97222222222222, Frec_enganche: 21.75
+Día 1 ----> Frec_desenganche: 18.63888888888889, Frec_enganche: 18.0
+Día 2 ----> Frec_desenganche: 18.97222222222222, Frec_enganche: 18.52777777777778
+Día 4 ----> Frec_desenganche: 17.416666666666668, Frec_enganche: 17.0
+
+
+Estacion 43:
+Día 6 ----> Frec_desenganche: 157.86111111111111, Frec_enganche: 161.11111111111111
+Día 0 ----> Frec_desenganche: 146.58333333333334, Frec_enganche: 155.75
+Día 2 ----> Frec_desenganche: 157.75, Frec_enganche: 161.02777777777777
+Día 3 ----> Frec_desenganche: 158.69444444444446, Frec_enganche: 158.97222222222223
+Día 5 ----> Frec_desenganche: 157.16666666666666, Frec_enganche: 160.94444444444446
+Día 4 ----> Frec_desenganche: 160.88888888888889, Frec_enganche: 161.38888888888889
+Día 1 ----> Frec_desenganche: 154.83333333333334, Frec_enganche: 155.69444444444446
+
+
+Estacion 120:
+Día 5 ----> Frec_desenganche: 20.333333333333332, Frec_enganche: 21.444444444444443
+Día 1 ----> Frec_desenganche: 27.555555555555557, Frec_enganche: 26.583333333333332
+Día 4 ----> Frec_desenganche: 25.166666666666668, Frec_enganche: 26.305555555555557
+Día 0 ----> Frec_desenganche: 24.75, Frec_enganche: 23.72222222222222
+Día 2 ----> Frec_desenganche: 24.63888888888889, Frec_enganche: 24.555555555555557
+Día 3 ----> Frec_desenganche: 28.36111111111111, Frec_enganche: 26.36111111111111
+Día 6 ----> Frec_desenganche: 33.47222222222222, Frec_enganche: 32.333333333333336
+
+
+Estacion 121:
+Día 6 ----> Frec_desenganche: 33.638888888888886, Frec_enganche: 34.666666666666664
+Día 5 ----> Frec_desenganche: 25.916666666666668, Frec_enganche: 26.305555555555557
+Día 1 ----> Frec_desenganche: 47.22222222222222, Frec_enganche: 45.55555555555556
+Día 4 ----> Frec_desenganche: 44.5, Frec_enganche: 43.55555555555556
+Día 0 ----> Frec_desenganche: 43.611111111111114, Frec_enganche: 43.22222222222222
+Día 3 ----> Frec_desenganche: 46.44444444444444, Frec_enganche: 45.888888888888886
+Día 2 ----> Frec_desenganche: 46.44444444444444, Frec_enganche: 46.77777777777778
+
+
+Estacion 44:
+Día 2 ----> Frec_desenganche: 59.75, Frec_enganche: 63.52777777777778
+Día 0 ----> Frec_desenganche: 62.833333333333336, Frec_enganche: 67.52777777777777
+Día 6 ----> Frec_desenganche: 46.583333333333336, Frec_enganche: 46.55555555555556
+Día 1 ----> Frec_desenganche: 59.0, Frec_enganche: 60.083333333333336
+Día 4 ----> Frec_desenganche: 57.861111111111114, Frec_enganche: 57.0
+Día 3 ----> Frec_desenganche: 62.72222222222222, Frec_enganche: 63.611111111111114
+Día 5 ----> Frec_desenganche: 49.111111111111114, Frec_enganche: 46.72222222222222
+
+
+Estacion 122:
+Día 5 ----> Frec_desenganche: 37.5, Frec_enganche: 39.388888888888886
+Día 1 ----> Frec_desenganche: 41.19444444444444, Frec_enganche: 43.30555555555556
+Día 4 ----> Frec_desenganche: 41.138888888888886, Frec_enganche: 40.69444444444444
+Día 0 ----> Frec_desenganche: 41.916666666666664, Frec_enganche: 40.138888888888886
+Día 2 ----> Frec_desenganche: 43.22222222222222, Frec_enganche: 43.27777777777778
+Día 6 ----> Frec_desenganche: 52.80555555555556, Frec_enganche: 51.833333333333336
+Día 3 ----> Frec_desenganche: 47.05555555555556, Frec_enganche: 45.666666666666664
+
+
+Estacion 45:
+Día 0 ----> Frec_desenganche: 106.30555555555556, Frec_enganche: 109.47222222222223
+Día 2 ----> Frec_desenganche: 125.33333333333333, Frec_enganche: 128.41666666666666
+Día 1 ----> Frec_desenganche: 115.25, Frec_enganche: 116.97222222222223
+Día 4 ----> Frec_desenganche: 116.91666666666667, Frec_enganche: 117.47222222222223
+Día 6 ----> Frec_desenganche: 92.63888888888889, Frec_enganche: 92.69444444444444
+Día 5 ----> Frec_desenganche: 107.77777777777777, Frec_enganche: 108.47222222222223
+Día 3 ----> Frec_desenganche: 119.66666666666667, Frec_enganche: 122.16666666666667
+
+
+Estacion 123:
+Día 5 ----> Frec_desenganche: 46.02777777777778, Frec_enganche: 45.916666666666664
+Día 1 ----> Frec_desenganche: 55.30555555555556, Frec_enganche: 54.44444444444444
+Día 4 ----> Frec_desenganche: 48.55555555555556, Frec_enganche: 52.22222222222222
+Día 0 ----> Frec_desenganche: 45.22222222222222, Frec_enganche: 44.44444444444444
+Día 2 ----> Frec_desenganche: 54.388888888888886, Frec_enganche: 56.333333333333336
+Día 3 ----> Frec_desenganche: 55.72222222222222, Frec_enganche: 51.72222222222222
+Día 6 ----> Frec_desenganche: 51.583333333333336, Frec_enganche: 46.80555555555556
+
+
+Estacion 46:
+Día 0 ----> Frec_desenganche: 71.44444444444444, Frec_enganche: 77.25
+Día 1 ----> Frec_desenganche: 79.05555555555556, Frec_enganche: 80.19444444444444
+Día 6 ----> Frec_desenganche: 60.166666666666664, Frec_enganche: 60.833333333333336
+Día 4 ----> Frec_desenganche: 82.27777777777777, Frec_enganche: 84.25
+Día 5 ----> Frec_desenganche: 69.41666666666667, Frec_enganche: 65.47222222222223
+Día 3 ----> Frec_desenganche: 84.33333333333333, Frec_enganche: 84.88888888888889
+Día 2 ----> Frec_desenganche: 88.38888888888889, Frec_enganche: 88.11111111111111
+
+
+Estacion 124:
+Día 5 ----> Frec_desenganche: 44.416666666666664, Frec_enganche: 43.77777777777778
+Día 6 ----> Frec_desenganche: 48.25, Frec_enganche: 44.55555555555556
+Día 4 ----> Frec_desenganche: 47.30555555555556, Frec_enganche: 52.888888888888886
+Día 1 ----> Frec_desenganche: 58.80555555555556, Frec_enganche: 59.25
+Día 2 ----> Frec_desenganche: 57.388888888888886, Frec_enganche: 59.72222222222222
+Día 0 ----> Frec_desenganche: 48.083333333333336, Frec_enganche: 49.888888888888886
+Día 3 ----> Frec_desenganche: 52.72222222222222, Frec_enganche: 51.22222222222222
+
+
+Estacion 47:
+Día 1 ----> Frec_desenganche: 52.361111111111114, Frec_enganche: 53.083333333333336
+Día 6 ----> Frec_desenganche: 41.833333333333336, Frec_enganche: 42.861111111111114
+Día 0 ----> Frec_desenganche: 43.02777777777778, Frec_enganche: 52.111111111111114
+Día 5 ----> Frec_desenganche: 48.833333333333336, Frec_enganche: 41.47222222222222
+Día 4 ----> Frec_desenganche: 50.583333333333336, Frec_enganche: 50.97222222222222
+Día 3 ----> Frec_desenganche: 53.861111111111114, Frec_enganche: 53.138888888888886
+Día 2 ----> Frec_desenganche: 64.47222222222223, Frec_enganche: 65.16666666666667
+
+
+Estacion 48:
+Día 3 ----> Frec_desenganche: 66.88888888888889, Frec_enganche: 65.44444444444444
+Día 0 ----> Frec_desenganche: 53.666666666666664, Frec_enganche: 59.416666666666664
+Día 4 ----> Frec_desenganche: 64.19444444444444, Frec_enganche: 62.77777777777778
+Día 1 ----> Frec_desenganche: 63.44444444444444, Frec_enganche: 63.166666666666664
+Día 2 ----> Frec_desenganche: 77.58333333333333, Frec_enganche: 79.52777777777777
+Día 5 ----> Frec_desenganche: 57.916666666666664, Frec_enganche: 54.166666666666664
+Día 6 ----> Frec_desenganche: 49.611111111111114, Frec_enganche: 52.833333333333336
+
+
+Estacion 125:
+Día 4 ----> Frec_desenganche: 47.02777777777778, Frec_enganche: 43.22222222222222
+Día 6 ----> Frec_desenganche: 39.916666666666664, Frec_enganche: 45.638888888888886
+Día 1 ----> Frec_desenganche: 47.583333333333336, Frec_enganche: 47.138888888888886
+Día 0 ----> Frec_desenganche: 44.25, Frec_enganche: 46.27777777777778
+Día 2 ----> Frec_desenganche: 49.5, Frec_enganche: 49.55555555555556
+Día 5 ----> Frec_desenganche: 34.97222222222222, Frec_enganche: 33.30555555555556
+Día 3 ----> Frec_desenganche: 50.583333333333336, Frec_enganche: 50.583333333333336
+
+
+Estacion 49:
+Día 3 ----> Frec_desenganche: 110.63888888888889, Frec_enganche: 112.38888888888889
+Día 0 ----> Frec_desenganche: 112.33333333333333, Frec_enganche: 119.27777777777777
+Día 1 ----> Frec_desenganche: 111.94444444444444, Frec_enganche: 113.16666666666667
+Día 4 ----> Frec_desenganche: 112.77777777777777, Frec_enganche: 109.88888888888889
+Día 5 ----> Frec_desenganche: 83.94444444444444, Frec_enganche: 84.25
+Día 2 ----> Frec_desenganche: 117.44444444444444, Frec_enganche: 119.91666666666667
+Día 6 ----> Frec_desenganche: 82.52777777777777, Frec_enganche: 87.25
+
+
+Estacion 126:
+Día 6 ----> Frec_desenganche: 28.11111111111111, Frec_enganche: 32.333333333333336
+Día 3 ----> Frec_desenganche: 45.44444444444444, Frec_enganche: 47.138888888888886
+Día 4 ----> Frec_desenganche: 45.333333333333336, Frec_enganche: 43.833333333333336
+Día 1 ----> Frec_desenganche: 46.19444444444444, Frec_enganche: 48.5
+Día 2 ----> Frec_desenganche: 58.55555555555556, Frec_enganche: 58.416666666666664
+Día 0 ----> Frec_desenganche: 41.666666666666664, Frec_enganche: 41.22222222222222
+Día 5 ----> Frec_desenganche: 30.75, Frec_enganche: 29.305555555555557
+
+
+Estacion 127:
+Día 3 ----> Frec_desenganche: 43.333333333333336, Frec_enganche: 42.80555555555556
+Día 6 ----> Frec_desenganche: 20.833333333333332, Frec_enganche: 24.166666666666668
+Día 1 ----> Frec_desenganche: 43.833333333333336, Frec_enganche: 43.666666666666664
+Día 4 ----> Frec_desenganche: 42.97222222222222, Frec_enganche: 42.083333333333336
+Día 2 ----> Frec_desenganche: 57.77777777777778, Frec_enganche: 58.361111111111114
+Día 0 ----> Frec_desenganche: 42.388888888888886, Frec_enganche: 40.638888888888886
+Día 5 ----> Frec_desenganche: 23.22222222222222, Frec_enganche: 22.27777777777778
+
+
+Estacion 50:
+Día 0 ----> Frec_desenganche: 61.77777777777778, Frec_enganche: 68.33333333333333
+Día 1 ----> Frec_desenganche: 56.75, Frec_enganche: 56.47222222222222
+Día 3 ----> Frec_desenganche: 61.666666666666664, Frec_enganche: 64.16666666666667
+Día 4 ----> Frec_desenganche: 62.138888888888886, Frec_enganche: 55.94444444444444
+Día 5 ----> Frec_desenganche: 43.69444444444444, Frec_enganche: 37.77777777777778
+Día 2 ----> Frec_desenganche: 58.888888888888886, Frec_enganche: 58.02777777777778
+Día 6 ----> Frec_desenganche: 42.72222222222222, Frec_enganche: 44.388888888888886
+
+
+Estacion 51:
+Día 3 ----> Frec_desenganche: 52.02777777777778, Frec_enganche: 50.75
+Día 1 ----> Frec_desenganche: 49.361111111111114, Frec_enganche: 48.19444444444444
+Día 0 ----> Frec_desenganche: 44.97222222222222, Frec_enganche: 50.416666666666664
+Día 5 ----> Frec_desenganche: 40.5, Frec_enganche: 35.77777777777778
+Día 2 ----> Frec_desenganche: 66.63888888888889, Frec_enganche: 64.22222222222223
+Día 4 ----> Frec_desenganche: 53.02777777777778, Frec_enganche: 50.5
+Día 6 ----> Frec_desenganche: 34.833333333333336, Frec_enganche: 35.22222222222222
+
+
+Estacion 128:
+Día 3 ----> Frec_desenganche: 105.27777777777777, Frec_enganche: 103.5
+Día 5 ----> Frec_desenganche: 85.52777777777777, Frec_enganche: 83.55555555555556
+Día 4 ----> Frec_desenganche: 107.16666666666667, Frec_enganche: 101.97222222222223
+Día 6 ----> Frec_desenganche: 69.30555555555556, Frec_enganche: 72.47222222222223
+Día 1 ----> Frec_desenganche: 105.61111111111111, Frec_enganche: 104.75
+Día 0 ----> Frec_desenganche: 93.47222222222223, Frec_enganche: 100.33333333333333
+Día 2 ----> Frec_desenganche: 119.80555555555556, Frec_enganche: 120.91666666666667
+
+
+Estacion 52:
+Día 4 ----> Frec_desenganche: 82.22222222222223, Frec_enganche: 81.72222222222223
+Día 3 ----> Frec_desenganche: 82.22222222222223, Frec_enganche: 83.77777777777777
+Día 2 ----> Frec_desenganche: 98.77777777777777, Frec_enganche: 98.08333333333333
+Día 5 ----> Frec_desenganche: 71.83333333333333, Frec_enganche: 68.41666666666667
+Día 0 ----> Frec_desenganche: 67.83333333333333, Frec_enganche: 74.86111111111111
+Día 1 ----> Frec_desenganche: 78.02777777777777, Frec_enganche: 76.86111111111111
+Día 6 ----> Frec_desenganche: 68.08333333333333, Frec_enganche: 65.86111111111111
+
+
+Estacion 129:
+Día 3 ----> Frec_desenganche: 154.80555555555554, Frec_enganche: 157.44444444444446
+Día 5 ----> Frec_desenganche: 123.02777777777777, Frec_enganche: 123.36111111111111
+Día 1 ----> Frec_desenganche: 154.27777777777777, Frec_enganche: 159.66666666666666
+Día 4 ----> Frec_desenganche: 148.58333333333334, Frec_enganche: 149.86111111111111
+Día 6 ----> Frec_desenganche: 106.05555555555556, Frec_enganche: 115.75
+Día 0 ----> Frec_desenganche: 140.36111111111111, Frec_enganche: 146.61111111111111
+Día 2 ----> Frec_desenganche: 169.83333333333334, Frec_enganche: 174.47222222222223
+
+
+Estacion 53:
+Día 4 ----> Frec_desenganche: 85.30555555555556, Frec_enganche: 82.36111111111111
+Día 5 ----> Frec_desenganche: 68.36111111111111, Frec_enganche: 65.13888888888889
+Día 3 ----> Frec_desenganche: 84.77777777777777, Frec_enganche: 88.05555555555556
+Día 0 ----> Frec_desenganche: 77.94444444444444, Frec_enganche: 84.38888888888889
+Día 2 ----> Frec_desenganche: 104.19444444444444, Frec_enganche: 100.66666666666667
+Día 1 ----> Frec_desenganche: 90.66666666666667, Frec_enganche: 90.94444444444444
+Día 6 ----> Frec_desenganche: 56.861111111111114, Frec_enganche: 55.55555555555556
+
+
+Estacion 130:
+Día 5 ----> Frec_desenganche: 35.666666666666664, Frec_enganche: 35.30555555555556
+Día 3 ----> Frec_desenganche: 57.27777777777778, Frec_enganche: 58.27777777777778
+Día 1 ----> Frec_desenganche: 61.666666666666664, Frec_enganche: 61.5
+Día 6 ----> Frec_desenganche: 34.30555555555556, Frec_enganche: 33.5
+Día 4 ----> Frec_desenganche: 54.611111111111114, Frec_enganche: 54.44444444444444
+Día 2 ----> Frec_desenganche: 57.75, Frec_enganche: 56.416666666666664
+Día 0 ----> Frec_desenganche: 51.30555555555556, Frec_enganche: 49.75
+
+
+Estacion 54:
+Día 4 ----> Frec_desenganche: 58.083333333333336, Frec_enganche: 60.19444444444444
+Día 5 ----> Frec_desenganche: 52.833333333333336, Frec_enganche: 50.27777777777778
+Día 2 ----> Frec_desenganche: 71.91666666666667, Frec_enganche: 72.66666666666667
+Día 0 ----> Frec_desenganche: 57.611111111111114, Frec_enganche: 57.44444444444444
+Día 1 ----> Frec_desenganche: 57.083333333333336, Frec_enganche: 56.916666666666664
+Día 3 ----> Frec_desenganche: 57.5, Frec_enganche: 58.666666666666664
+Día 6 ----> Frec_desenganche: 52.44444444444444, Frec_enganche: 49.69444444444444
+
+
+Estacion 131:
+Día 5 ----> Frec_desenganche: 62.22222222222222, Frec_enganche: 61.083333333333336
+Día 3 ----> Frec_desenganche: 79.22222222222223, Frec_enganche: 78.63888888888889
+Día 1 ----> Frec_desenganche: 91.5, Frec_enganche: 89.30555555555556
+Día 6 ----> Frec_desenganche: 52.19444444444444, Frec_enganche: 54.52777777777778
+Día 4 ----> Frec_desenganche: 72.77777777777777, Frec_enganche: 73.27777777777777
+Día 2 ----> Frec_desenganche: 77.69444444444444, Frec_enganche: 80.19444444444444
+Día 0 ----> Frec_desenganche: 67.55555555555556, Frec_enganche: 69.97222222222223
+
+
+Estacion 55:
+Día 5 ----> Frec_desenganche: 57.361111111111114, Frec_enganche: 55.138888888888886
+Día 2 ----> Frec_desenganche: 100.61111111111111, Frec_enganche: 100.69444444444444
+Día 4 ----> Frec_desenganche: 79.05555555555556, Frec_enganche: 78.02777777777777
+Día 3 ----> Frec_desenganche: 77.33333333333333, Frec_enganche: 79.13888888888889
+Día 1 ----> Frec_desenganche: 76.47222222222223, Frec_enganche: 74.83333333333333
+Día 0 ----> Frec_desenganche: 74.61111111111111, Frec_enganche: 74.5
+Día 6 ----> Frec_desenganche: 60.666666666666664, Frec_enganche: 59.416666666666664
+
+
+Estacion 132:
+Día 5 ----> Frec_desenganche: 112.69444444444444, Frec_enganche: 114.30555555555556
+Día 4 ----> Frec_desenganche: 104.22222222222223, Frec_enganche: 108.0
+Día 3 ----> Frec_desenganche: 104.33333333333333, Frec_enganche: 106.80555555555556
+Día 2 ----> Frec_desenganche: 110.5, Frec_enganche: 113.52777777777777
+Día 6 ----> Frec_desenganche: 110.52777777777777, Frec_enganche: 113.88888888888889
+Día 1 ----> Frec_desenganche: 115.19444444444444, Frec_enganche: 118.91666666666667
+Día 0 ----> Frec_desenganche: 95.97222222222223, Frec_enganche: 99.88888888888889
+
+
+Estacion 133:
+Día 5 ----> Frec_desenganche: 80.61111111111111, Frec_enganche: 81.22222222222223
+Día 4 ----> Frec_desenganche: 107.11111111111111, Frec_enganche: 105.36111111111111
+Día 3 ----> Frec_desenganche: 100.58333333333333, Frec_enganche: 105.69444444444444
+Día 2 ----> Frec_desenganche: 106.5, Frec_enganche: 109.41666666666667
+Día 1 ----> Frec_desenganche: 101.0, Frec_enganche: 103.30555555555556
+Día 6 ----> Frec_desenganche: 73.22222222222223, Frec_enganche: 78.55555555555556
+Día 0 ----> Frec_desenganche: 106.55555555555556, Frec_enganche: 114.36111111111111
+
+
+Estacion 56:
+Día 2 ----> Frec_desenganche: 99.02777777777777, Frec_enganche: 99.75
+Día 6 ----> Frec_desenganche: 67.86111111111111, Frec_enganche: 66.72222222222223
+Día 3 ----> Frec_desenganche: 88.16666666666667, Frec_enganche: 89.22222222222223
+Día 4 ----> Frec_desenganche: 87.5, Frec_enganche: 89.08333333333333
+Día 0 ----> Frec_desenganche: 79.16666666666667, Frec_enganche: 81.22222222222223
+Día 5 ----> Frec_desenganche: 77.25, Frec_enganche: 77.16666666666667
+Día 1 ----> Frec_desenganche: 82.19444444444444, Frec_enganche: 85.13888888888889
+
+
+Estacion 57:
+Día 2 ----> Frec_desenganche: 159.72222222222223, Frec_enganche: 157.61111111111111
+Día 6 ----> Frec_desenganche: 135.47222222222223, Frec_enganche: 132.41666666666666
+Día 3 ----> Frec_desenganche: 146.25, Frec_enganche: 147.0
+Día 4 ----> Frec_desenganche: 152.02777777777777, Frec_enganche: 151.88888888888889
+Día 0 ----> Frec_desenganche: 129.47222222222223, Frec_enganche: 134.72222222222223
+Día 5 ----> Frec_desenganche: 150.0, Frec_enganche: 145.36111111111111
+Día 1 ----> Frec_desenganche: 144.63888888888889, Frec_enganche: 146.19444444444446
+
+
+Estacion 134:
+Día 4 ----> Frec_desenganche: 77.94444444444444, Frec_enganche: 75.63888888888889
+Día 2 ----> Frec_desenganche: 77.58333333333333, Frec_enganche: 77.80555555555556
+Día 3 ----> Frec_desenganche: 81.05555555555556, Frec_enganche: 79.61111111111111
+Día 1 ----> Frec_desenganche: 75.30555555555556, Frec_enganche: 75.91666666666667
+Día 6 ----> Frec_desenganche: 50.611111111111114, Frec_enganche: 54.55555555555556
+Día 0 ----> Frec_desenganche: 74.86111111111111, Frec_enganche: 79.69444444444444
+Día 5 ----> Frec_desenganche: 57.138888888888886, Frec_enganche: 53.138888888888886
+
+
+Estacion 58:
+Día 2 ----> Frec_desenganche: 112.02777777777777, Frec_enganche: 113.58333333333333
+Día 6 ----> Frec_desenganche: 105.86111111111111, Frec_enganche: 95.69444444444444
+Día 3 ----> Frec_desenganche: 111.44444444444444, Frec_enganche: 112.05555555555556
+Día 4 ----> Frec_desenganche: 109.08333333333333, Frec_enganche: 112.30555555555556
+Día 5 ----> Frec_desenganche: 106.16666666666667, Frec_enganche: 106.41666666666667
+Día 0 ----> Frec_desenganche: 96.02777777777777, Frec_enganche: 95.16666666666667
+Día 1 ----> Frec_desenganche: 109.47222222222223, Frec_enganche: 110.05555555555556
+
+
+Estacion 135:
+Día 4 ----> Frec_desenganche: 147.19444444444446, Frec_enganche: 147.80555555555554
+Día 2 ----> Frec_desenganche: 152.44444444444446, Frec_enganche: 159.66666666666666
+Día 3 ----> Frec_desenganche: 141.02777777777777, Frec_enganche: 145.33333333333334
+Día 1 ----> Frec_desenganche: 132.22222222222223, Frec_enganche: 138.88888888888889
+Día 6 ----> Frec_desenganche: 162.41666666666666, Frec_enganche: 171.94444444444446
+Día 0 ----> Frec_desenganche: 128.02777777777777, Frec_enganche: 134.88888888888889
+Día 5 ----> Frec_desenganche: 160.30555555555554, Frec_enganche: 168.22222222222223
+
+
+Estacion 59:
+Día 2 ----> Frec_desenganche: 101.77777777777777, Frec_enganche: 103.91666666666667
+Día 6 ----> Frec_desenganche: 85.66666666666667, Frec_enganche: 81.11111111111111
+Día 3 ----> Frec_desenganche: 102.5, Frec_enganche: 103.5
+Día 5 ----> Frec_desenganche: 98.5, Frec_enganche: 95.72222222222223
+Día 1 ----> Frec_desenganche: 109.05555555555556, Frec_enganche: 110.27777777777777
+Día 4 ----> Frec_desenganche: 99.94444444444444, Frec_enganche: 103.25
+Día 0 ----> Frec_desenganche: 88.55555555555556, Frec_enganche: 94.33333333333333
+
+
+Estacion 136:
+Día 6 ----> Frec_desenganche: 64.66666666666667, Frec_enganche: 68.75
+Día 1 ----> Frec_desenganche: 80.58333333333333, Frec_enganche: 82.36111111111111
+Día 0 ----> Frec_desenganche: 76.36111111111111, Frec_enganche: 81.16666666666667
+Día 2 ----> Frec_desenganche: 95.80555555555556, Frec_enganche: 95.41666666666667
+Día 3 ----> Frec_desenganche: 82.22222222222223, Frec_enganche: 81.08333333333333
+Día 5 ----> Frec_desenganche: 67.77777777777777, Frec_enganche: 65.08333333333333
+Día 4 ----> Frec_desenganche: 85.13888888888889, Frec_enganche: 82.36111111111111
+
+
+Estacion 137:
+Día 1 ----> Frec_desenganche: 61.833333333333336, Frec_enganche: 60.75
+Día 6 ----> Frec_desenganche: 36.27777777777778, Frec_enganche: 36.52777777777778
+Día 0 ----> Frec_desenganche: 55.72222222222222, Frec_enganche: 54.583333333333336
+Día 2 ----> Frec_desenganche: 59.166666666666664, Frec_enganche: 59.416666666666664
+Día 3 ----> Frec_desenganche: 58.5, Frec_enganche: 56.861111111111114
+Día 5 ----> Frec_desenganche: 39.833333333333336, Frec_enganche: 41.02777777777778
+Día 4 ----> Frec_desenganche: 71.22222222222223, Frec_enganche: 69.63888888888889
+
+
+Estacion 60:
+Día 1 ----> Frec_desenganche: 25.11111111111111, Frec_enganche: 25.055555555555557
+Día 6 ----> Frec_desenganche: 24.416666666666668, Frec_enganche: 22.583333333333332
+Día 4 ----> Frec_desenganche: 28.0, Frec_enganche: 28.833333333333332
+Día 3 ----> Frec_desenganche: 27.25, Frec_enganche: 27.944444444444443
+Día 5 ----> Frec_desenganche: 24.333333333333332, Frec_enganche: 22.52777777777778
+Día 2 ----> Frec_desenganche: 28.36111111111111, Frec_enganche: 28.11111111111111
+Día 0 ----> Frec_desenganche: 38.22222222222222, Frec_enganche: 38.333333333333336
+
+
+Estacion 61:
+Día 1 ----> Frec_desenganche: 47.833333333333336, Frec_enganche: 46.888888888888886
+Día 4 ----> Frec_desenganche: 28.694444444444443, Frec_enganche: 27.22222222222222
+Día 6 ----> Frec_desenganche: 15.972222222222221, Frec_enganche: 17.27777777777778
+Día 5 ----> Frec_desenganche: 18.27777777777778, Frec_enganche: 18.305555555555557
+Día 3 ----> Frec_desenganche: 30.88888888888889, Frec_enganche: 30.63888888888889
+Día 0 ----> Frec_desenganche: 31.25, Frec_enganche: 28.88888888888889
+Día 2 ----> Frec_desenganche: 33.0, Frec_enganche: 31.555555555555557
+
+
+Estacion 138:
+Día 6 ----> Frec_desenganche: 22.77777777777778, Frec_enganche: 22.333333333333332
+Día 2 ----> Frec_desenganche: 35.94444444444444, Frec_enganche: 33.611111111111114
+Día 0 ----> Frec_desenganche: 35.22222222222222, Frec_enganche: 30.72222222222222
+Día 5 ----> Frec_desenganche: 28.0, Frec_enganche: 26.5
+Día 3 ----> Frec_desenganche: 33.25, Frec_enganche: 33.666666666666664
+Día 4 ----> Frec_desenganche: 44.72222222222222, Frec_enganche: 45.638888888888886
+Día 1 ----> Frec_desenganche: 35.583333333333336, Frec_enganche: 34.833333333333336
+
+
+Estacion 139:
+Día 4 ----> Frec_desenganche: 100.38888888888889, Frec_enganche: 96.36111111111111
+Día 6 ----> Frec_desenganche: 66.11111111111111, Frec_enganche: 70.83333333333333
+Día 2 ----> Frec_desenganche: 92.0, Frec_enganche: 92.58333333333333
+Día 0 ----> Frec_desenganche: 85.27777777777777, Frec_enganche: 85.11111111111111
+Día 5 ----> Frec_desenganche: 75.19444444444444, Frec_enganche: 76.69444444444444
+Día 3 ----> Frec_desenganche: 89.16666666666667, Frec_enganche: 89.75
+Día 1 ----> Frec_desenganche: 92.25, Frec_enganche: 89.72222222222223
+
+
+Estacion 62:
+Día 6 ----> Frec_desenganche: 71.16666666666667, Frec_enganche: 65.16666666666667
+Día 4 ----> Frec_desenganche: 85.58333333333333, Frec_enganche: 88.77777777777777
+Día 5 ----> Frec_desenganche: 80.88888888888889, Frec_enganche: 80.55555555555556
+Día 3 ----> Frec_desenganche: 88.47222222222223, Frec_enganche: 89.83333333333333
+Día 2 ----> Frec_desenganche: 92.75, Frec_enganche: 93.11111111111111
+Día 0 ----> Frec_desenganche: 79.97222222222223, Frec_enganche: 85.16666666666667
+Día 1 ----> Frec_desenganche: 103.5, Frec_enganche: 103.33333333333333
+
+
+Estacion 140:
+Día 2 ----> Frec_desenganche: 55.25, Frec_enganche: 53.583333333333336
+Día 6 ----> Frec_desenganche: 29.75, Frec_enganche: 29.47222222222222
+Día 1 ----> Frec_desenganche: 52.80555555555556, Frec_enganche: 52.0
+Día 0 ----> Frec_desenganche: 50.97222222222222, Frec_enganche: 46.0
+Día 5 ----> Frec_desenganche: 34.77777777777778, Frec_enganche: 34.19444444444444
+Día 4 ----> Frec_desenganche: 66.27777777777777, Frec_enganche: 62.94444444444444
+Día 3 ----> Frec_desenganche: 51.80555555555556, Frec_enganche: 49.138888888888886
+
+
+Estacion 63:
+Día 0 ----> Frec_desenganche: 49.47222222222222, Frec_enganche: 51.02777777777778
+Día 6 ----> Frec_desenganche: 47.361111111111114, Frec_enganche: 43.80555555555556
+Día 5 ----> Frec_desenganche: 56.02777777777778, Frec_enganche: 54.30555555555556
+Día 4 ----> Frec_desenganche: 60.94444444444444, Frec_enganche: 62.416666666666664
+Día 3 ----> Frec_desenganche: 60.19444444444444, Frec_enganche: 60.80555555555556
+Día 2 ----> Frec_desenganche: 60.94444444444444, Frec_enganche: 60.888888888888886
+Día 1 ----> Frec_desenganche: 67.13888888888889, Frec_enganche: 70.58333333333333
+
+
+Estacion 64:
+Día 2 ----> Frec_desenganche: 124.08333333333333, Frec_enganche: 124.25
+Día 5 ----> Frec_desenganche: 116.47222222222223, Frec_enganche: 122.38888888888889
+Día 4 ----> Frec_desenganche: 122.86111111111111, Frec_enganche: 124.97222222222223
+Día 1 ----> Frec_desenganche: 131.94444444444446, Frec_enganche: 132.27777777777777
+Día 0 ----> Frec_desenganche: 122.44444444444444, Frec_enganche: 122.02777777777777
+Día 6 ----> Frec_desenganche: 110.94444444444444, Frec_enganche: 109.91666666666667
+Día 3 ----> Frec_desenganche: 125.83333333333333, Frec_enganche: 125.05555555555556
+
+
+Estacion 141:
+Día 2 ----> Frec_desenganche: 41.0, Frec_enganche: 40.02777777777778
+Día 1 ----> Frec_desenganche: 40.583333333333336, Frec_enganche: 39.22222222222222
+Día 6 ----> Frec_desenganche: 22.333333333333332, Frec_enganche: 23.166666666666668
+Día 0 ----> Frec_desenganche: 41.44444444444444, Frec_enganche: 36.19444444444444
+Día 5 ----> Frec_desenganche: 27.694444444444443, Frec_enganche: 29.833333333333332
+Día 4 ----> Frec_desenganche: 50.72222222222222, Frec_enganche: 47.27777777777778
+Día 3 ----> Frec_desenganche: 42.44444444444444, Frec_enganche: 39.47222222222222
+
+
+Estacion 142:
+Día 2 ----> Frec_desenganche: 60.94444444444444, Frec_enganche: 58.97222222222222
+Día 1 ----> Frec_desenganche: 65.25, Frec_enganche: 63.22222222222222
+Día 6 ----> Frec_desenganche: 37.638888888888886, Frec_enganche: 42.77777777777778
+Día 5 ----> Frec_desenganche: 46.361111111111114, Frec_enganche: 47.47222222222222
+Día 0 ----> Frec_desenganche: 60.083333333333336, Frec_enganche: 57.27777777777778
+Día 4 ----> Frec_desenganche: 73.02777777777777, Frec_enganche: 66.55555555555556
+Día 3 ----> Frec_desenganche: 65.02777777777777, Frec_enganche: 64.19444444444444
+
+
+Estacion 65:
+Día 2 ----> Frec_desenganche: 80.30555555555556, Frec_enganche: 81.97222222222223
+Día 5 ----> Frec_desenganche: 59.5, Frec_enganche: 59.361111111111114
+Día 1 ----> Frec_desenganche: 81.33333333333333, Frec_enganche: 80.55555555555556
+Día 4 ----> Frec_desenganche: 78.69444444444444, Frec_enganche: 78.0
+Día 0 ----> Frec_desenganche: 74.27777777777777, Frec_enganche: 75.86111111111111
+Día 3 ----> Frec_desenganche: 76.38888888888889, Frec_enganche: 76.52777777777777
+Día 6 ----> Frec_desenganche: 42.388888888888886, Frec_enganche: 44.94444444444444
+
+
+Estacion 143:
+Día 2 ----> Frec_desenganche: 44.47222222222222, Frec_enganche: 44.583333333333336
+Día 1 ----> Frec_desenganche: 44.583333333333336, Frec_enganche: 44.97222222222222
+Día 6 ----> Frec_desenganche: 26.25, Frec_enganche: 26.38888888888889
+Día 5 ----> Frec_desenganche: 32.888888888888886, Frec_enganche: 33.30555555555556
+Día 0 ----> Frec_desenganche: 41.666666666666664, Frec_enganche: 36.97222222222222
+Día 4 ----> Frec_desenganche: 52.361111111111114, Frec_enganche: 54.166666666666664
+Día 3 ----> Frec_desenganche: 44.138888888888886, Frec_enganche: 43.083333333333336
+
+
+Estacion 66:
+Día 3 ----> Frec_desenganche: 61.47222222222222, Frec_enganche: 60.638888888888886
+Día 5 ----> Frec_desenganche: 46.72222222222222, Frec_enganche: 46.166666666666664
+Día 1 ----> Frec_desenganche: 63.333333333333336, Frec_enganche: 63.5
+Día 4 ----> Frec_desenganche: 63.861111111111114, Frec_enganche: 64.83333333333333
+Día 0 ----> Frec_desenganche: 59.166666666666664, Frec_enganche: 58.19444444444444
+Día 6 ----> Frec_desenganche: 31.583333333333332, Frec_enganche: 34.47222222222222
+Día 2 ----> Frec_desenganche: 67.25, Frec_enganche: 67.0
+
+
+Estacion 67:
+Día 5 ----> Frec_desenganche: 50.72222222222222, Frec_enganche: 50.416666666666664
+Día 1 ----> Frec_desenganche: 67.0, Frec_enganche: 68.58333333333333
+Día 4 ----> Frec_desenganche: 63.27777777777778, Frec_enganche: 58.72222222222222
+Día 6 ----> Frec_desenganche: 38.083333333333336, Frec_enganche: 41.25
+Día 0 ----> Frec_desenganche: 61.138888888888886, Frec_enganche: 60.888888888888886
+Día 3 ----> Frec_desenganche: 62.77777777777778, Frec_enganche: 62.666666666666664
+Día 2 ----> Frec_desenganche: 66.52777777777777, Frec_enganche: 64.52777777777777
+
+
+Estacion 144:
+Día 3 ----> Frec_desenganche: 27.194444444444443, Frec_enganche: 24.63888888888889
+Día 1 ----> Frec_desenganche: 29.805555555555557, Frec_enganche: 26.666666666666668
+Día 0 ----> Frec_desenganche: 25.055555555555557, Frec_enganche: 22.88888888888889
+Día 2 ----> Frec_desenganche: 28.5, Frec_enganche: 28.52777777777778
+Día 5 ----> Frec_desenganche: 18.416666666666668, Frec_enganche: 20.47222222222222
+Día 4 ----> Frec_desenganche: 35.861111111111114, Frec_enganche: 36.02777777777778
+Día 6 ----> Frec_desenganche: 15.0, Frec_enganche: 15.027777777777779
+
+
+Estacion 145:
+Día 1 ----> Frec_desenganche: 77.75, Frec_enganche: 76.36111111111111
+Día 3 ----> Frec_desenganche: 72.58333333333333, Frec_enganche: 74.33333333333333
+Día 5 ----> Frec_desenganche: 46.55555555555556, Frec_enganche: 47.25
+Día 0 ----> Frec_desenganche: 72.5, Frec_enganche: 65.72222222222223
+Día 4 ----> Frec_desenganche: 81.19444444444444, Frec_enganche: 81.5
+Día 2 ----> Frec_desenganche: 76.05555555555556, Frec_enganche: 75.66666666666667
+Día 6 ----> Frec_desenganche: 38.888888888888886, Frec_enganche: 42.22222222222222
+
+
+Estacion 69:
+Día 5 ----> Frec_desenganche: 30.833333333333332, Frec_enganche: 32.583333333333336
+Día 3 ----> Frec_desenganche: 65.19444444444444, Frec_enganche: 63.72222222222222
+Día 6 ----> Frec_desenganche: 32.583333333333336, Frec_enganche: 31.63888888888889
+Día 4 ----> Frec_desenganche: 63.138888888888886, Frec_enganche: 66.5
+Día 1 ----> Frec_desenganche: 66.27777777777777, Frec_enganche: 65.61111111111111
+Día 0 ----> Frec_desenganche: 64.52777777777777, Frec_enganche: 60.611111111111114
+Día 2 ----> Frec_desenganche: 77.91666666666667, Frec_enganche: 77.5
+
+
+Estacion 146:
+Día 1 ----> Frec_desenganche: 35.5, Frec_enganche: 34.47222222222222
+Día 5 ----> Frec_desenganche: 30.77777777777778, Frec_enganche: 32.02777777777778
+Día 2 ----> Frec_desenganche: 38.0, Frec_enganche: 38.638888888888886
+Día 0 ----> Frec_desenganche: 32.55555555555556, Frec_enganche: 32.30555555555556
+Día 3 ----> Frec_desenganche: 36.888888888888886, Frec_enganche: 35.861111111111114
+Día 6 ----> Frec_desenganche: 30.5, Frec_enganche: 29.52777777777778
+Día 4 ----> Frec_desenganche: 49.583333333333336, Frec_enganche: 49.361111111111114
+
+
+Estacion 147:
+Día 1 ----> Frec_desenganche: 41.05555555555556, Frec_enganche: 39.916666666666664
+Día 5 ----> Frec_desenganche: 25.944444444444443, Frec_enganche: 26.5
+Día 3 ----> Frec_desenganche: 40.833333333333336, Frec_enganche: 38.22222222222222
+Día 2 ----> Frec_desenganche: 39.638888888888886, Frec_enganche: 41.19444444444444
+Día 0 ----> Frec_desenganche: 41.0, Frec_enganche: 36.833333333333336
+Día 6 ----> Frec_desenganche: 31.97222222222222, Frec_enganche: 31.02777777777778
+Día 4 ----> Frec_desenganche: 34.638888888888886, Frec_enganche: 37.69444444444444
+
+
+Estacion 71:
+Día 0 ----> Frec_desenganche: 61.333333333333336, Frec_enganche: 58.80555555555556
+Día 3 ----> Frec_desenganche: 65.80555555555556, Frec_enganche: 66.47222222222223
+Día 4 ----> Frec_desenganche: 67.25, Frec_enganche: 69.47222222222223
+Día 1 ----> Frec_desenganche: 69.88888888888889, Frec_enganche: 71.0
+Día 2 ----> Frec_desenganche: 80.08333333333333, Frec_enganche: 79.52777777777777
+Día 5 ----> Frec_desenganche: 51.55555555555556, Frec_enganche: 51.111111111111114
+Día 6 ----> Frec_desenganche: 47.138888888888886, Frec_enganche: 47.19444444444444
+
+
+Estacion 148:
+Día 2 ----> Frec_desenganche: 56.94444444444444, Frec_enganche: 55.083333333333336
+Día 5 ----> Frec_desenganche: 34.166666666666664, Frec_enganche: 36.166666666666664
+Día 4 ----> Frec_desenganche: 59.80555555555556, Frec_enganche: 57.52777777777778
+Día 3 ----> Frec_desenganche: 56.611111111111114, Frec_enganche: 56.333333333333336
+Día 1 ----> Frec_desenganche: 54.75, Frec_enganche: 52.916666666666664
+Día 0 ----> Frec_desenganche: 51.52777777777778, Frec_enganche: 46.69444444444444
+Día 6 ----> Frec_desenganche: 31.63888888888889, Frec_enganche: 33.888888888888886
+
+
+Estacion 72:
+Día 1 ----> Frec_desenganche: 46.25, Frec_enganche: 46.611111111111114
+Día 0 ----> Frec_desenganche: 40.52777777777778, Frec_enganche: 39.44444444444444
+Día 3 ----> Frec_desenganche: 45.22222222222222, Frec_enganche: 43.94444444444444
+Día 6 ----> Frec_desenganche: 27.416666666666668, Frec_enganche: 27.27777777777778
+Día 2 ----> Frec_desenganche: 54.27777777777778, Frec_enganche: 54.5
+Día 5 ----> Frec_desenganche: 32.27777777777778, Frec_enganche: 32.97222222222222
+Día 4 ----> Frec_desenganche: 46.94444444444444, Frec_enganche: 48.166666666666664
+
+
+Estacion 149:
+Día 5 ----> Frec_desenganche: 107.0, Frec_enganche: 110.5
+Día 4 ----> Frec_desenganche: 136.58333333333334, Frec_enganche: 132.58333333333334
+Día 2 ----> Frec_desenganche: 130.27777777777777, Frec_enganche: 132.72222222222223
+Día 1 ----> Frec_desenganche: 129.02777777777777, Frec_enganche: 127.72222222222223
+Día 3 ----> Frec_desenganche: 129.38888888888889, Frec_enganche: 128.08333333333334
+Día 0 ----> Frec_desenganche: 120.05555555555556, Frec_enganche: 121.69444444444444
+Día 6 ----> Frec_desenganche: 96.36111111111111, Frec_enganche: 102.05555555555556
+
+
+Estacion 150:
+Día 5 ----> Frec_desenganche: 17.944444444444443, Frec_enganche: 17.25
+Día 2 ----> Frec_desenganche: 24.555555555555557, Frec_enganche: 25.13888888888889
+Día 1 ----> Frec_desenganche: 24.97222222222222, Frec_enganche: 23.72222222222222
+Día 4 ----> Frec_desenganche: 37.69444444444444, Frec_enganche: 36.69444444444444
+Día 0 ----> Frec_desenganche: 24.5, Frec_enganche: 23.833333333333332
+Día 3 ----> Frec_desenganche: 23.555555555555557, Frec_enganche: 23.02777777777778
+Día 6 ----> Frec_desenganche: 17.416666666666668, Frec_enganche: 21.11111111111111
+
+
+Estacion 73:
+Día 0 ----> Frec_desenganche: 67.38888888888889, Frec_enganche: 65.5
+Día 3 ----> Frec_desenganche: 65.38888888888889, Frec_enganche: 66.61111111111111
+Día 6 ----> Frec_desenganche: 48.361111111111114, Frec_enganche: 46.888888888888886
+Día 5 ----> Frec_desenganche: 43.333333333333336, Frec_enganche: 45.47222222222222
+Día 2 ----> Frec_desenganche: 76.22222222222223, Frec_enganche: 77.86111111111111
+Día 4 ----> Frec_desenganche: 60.27777777777778, Frec_enganche: 64.36111111111111
+Día 1 ----> Frec_desenganche: 66.08333333333333, Frec_enganche: 66.33333333333333
+
+
+Estacion 151:
+Día 5 ----> Frec_desenganche: 21.416666666666668, Frec_enganche: 24.083333333333332
+Día 2 ----> Frec_desenganche: 39.44444444444444, Frec_enganche: 40.19444444444444
+Día 1 ----> Frec_desenganche: 40.69444444444444, Frec_enganche: 38.27777777777778
+Día 4 ----> Frec_desenganche: 38.22222222222222, Frec_enganche: 37.19444444444444
+Día 3 ----> Frec_desenganche: 40.666666666666664, Frec_enganche: 37.55555555555556
+Día 0 ----> Frec_desenganche: 37.333333333333336, Frec_enganche: 34.19444444444444
+Día 6 ----> Frec_desenganche: 31.61111111111111, Frec_enganche: 32.05555555555556
+
+
+Estacion 74:
+Día 0 ----> Frec_desenganche: 86.75, Frec_enganche: 89.72222222222223
+Día 6 ----> Frec_desenganche: 68.05555555555556, Frec_enganche: 70.66666666666667
+Día 3 ----> Frec_desenganche: 95.38888888888889, Frec_enganche: 93.58333333333333
+Día 2 ----> Frec_desenganche: 93.16666666666667, Frec_enganche: 90.77777777777777
+Día 5 ----> Frec_desenganche: 91.63888888888889, Frec_enganche: 89.86111111111111
+Día 1 ----> Frec_desenganche: 87.66666666666667, Frec_enganche: 86.41666666666667
+Día 4 ----> Frec_desenganche: 91.55555555555556, Frec_enganche: 90.61111111111111
+
+
+Estacion 152:
+Día 4 ----> Frec_desenganche: 46.138888888888886, Frec_enganche: 45.25
+Día 0 ----> Frec_desenganche: 34.583333333333336, Frec_enganche: 29.0
+Día 2 ----> Frec_desenganche: 36.19444444444444, Frec_enganche: 35.55555555555556
+Día 6 ----> Frec_desenganche: 15.444444444444445, Frec_enganche: 16.333333333333332
+Día 3 ----> Frec_desenganche: 34.833333333333336, Frec_enganche: 33.5
+Día 5 ----> Frec_desenganche: 22.083333333333332, Frec_enganche: 23.36111111111111
+Día 1 ----> Frec_desenganche: 37.22222222222222, Frec_enganche: 35.888888888888886
+
+
+Estacion 75:
+Día 4 ----> Frec_desenganche: 80.55555555555556, Frec_enganche: 74.88888888888889
+Día 3 ----> Frec_desenganche: 80.13888888888889, Frec_enganche: 78.91666666666667
+Día 6 ----> Frec_desenganche: 46.361111111111114, Frec_enganche: 52.361111111111114
+Día 0 ----> Frec_desenganche: 73.16666666666667, Frec_enganche: 76.0
+Día 2 ----> Frec_desenganche: 82.77777777777777, Frec_enganche: 82.27777777777777
+Día 5 ----> Frec_desenganche: 73.19444444444444, Frec_enganche: 69.72222222222223
+Día 1 ----> Frec_desenganche: 79.91666666666667, Frec_enganche: 81.25
+
+
+Estacion 153:
+Día 4 ----> Frec_desenganche: 67.16666666666667, Frec_enganche: 65.44444444444444
+Día 0 ----> Frec_desenganche: 52.083333333333336, Frec_enganche: 49.02777777777778
+Día 2 ----> Frec_desenganche: 54.166666666666664, Frec_enganche: 54.19444444444444
+Día 6 ----> Frec_desenganche: 36.55555555555556, Frec_enganche: 40.0
+Día 3 ----> Frec_desenganche: 54.611111111111114, Frec_enganche: 52.361111111111114
+Día 5 ----> Frec_desenganche: 37.916666666666664, Frec_enganche: 38.22222222222222
+Día 1 ----> Frec_desenganche: 54.19444444444444, Frec_enganche: 52.5
+
+
+Estacion 76:
+Día 1 ----> Frec_desenganche: 69.02777777777777, Frec_enganche: 66.27777777777777
+Día 2 ----> Frec_desenganche: 65.5, Frec_enganche: 64.83333333333333
+Día 0 ----> Frec_desenganche: 60.916666666666664, Frec_enganche: 62.22222222222222
+Día 3 ----> Frec_desenganche: 68.91666666666667, Frec_enganche: 69.11111111111111
+Día 5 ----> Frec_desenganche: 53.02777777777778, Frec_enganche: 49.97222222222222
+Día 6 ----> Frec_desenganche: 42.94444444444444, Frec_enganche: 48.5
+Día 4 ----> Frec_desenganche: 68.22222222222223, Frec_enganche: 67.02777777777777
+
+

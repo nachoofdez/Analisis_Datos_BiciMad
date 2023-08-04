@@ -1,0 +1,7 @@
+Día de la semana 0 ----> Media de usuarios únicos 6145.305555555556
+Día de la semana 1 ----> Media de usuarios únicos 6587.361111111111
+Día de la semana 2 ----> Media de usuarios únicos 6776.833333333333
+Día de la semana 3 ----> Media de usuarios únicos 6753.972222222223
+Día de la semana 4 ----> Media de usuarios únicos 6795.027777777777
+Día de la semana 5 ----> Media de usuarios únicos 5411.583333333333
+Día de la semana 6 ----> Media de usuarios únicos 4985.361111111111

@@ -1,0 +1,6 @@
+Grupo de edad 1 ----> Tiempo promedio: 1343.5273299019534
+Grupo de edad 2 ----> Tiempo promedio: 1114.4512439040834
+Grupo de edad 3 ----> Tiempo promedio: 958.651384896252
+Grupo de edad 4 ----> Tiempo promedio: 1177.5107162656661
+Grupo de edad 5 ----> Tiempo promedio: 1194.906066205867
+Grupo de edad 6 ----> Tiempo promedio: 1162.5616527256996

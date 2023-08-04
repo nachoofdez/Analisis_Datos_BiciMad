@@ -1,0 +1,7 @@
+Día 0 ----> Tiempo promedio: 1151.0067408231369
+Día 1 ----> Tiempo promedio: 1192.7087450706426
+Día 2 ----> Tiempo promedio: 1145.2980669149995
+Día 3 ----> Tiempo promedio: 1134.3081269003603
+Día 4 ----> Tiempo promedio: 1179.4564551412177
+Día 5 ----> Tiempo promedio: 1281.2865189377396
+Día 6 ----> Tiempo promedio: 1355.3398103184174

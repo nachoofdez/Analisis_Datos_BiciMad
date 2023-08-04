@@ -1,0 +1,8 @@
+Mes 5 ----> Media de usuarios únicos 184842.0
+Mes 6 ----> Media de usuarios únicos 205266.0
+Mes 7 ----> Media de usuarios únicos 184696.0
+Mes 8 ----> Media de usuarios únicos 147230.0
+Mes 9 ----> Media de usuarios únicos 217755.0
+Mes 10 ----> Media de usuarios únicos 224996.0
+Mes 11 ----> Media de usuarios únicos 189369.0
+Mes 12 ----> Media de usuarios únicos 141922.0
