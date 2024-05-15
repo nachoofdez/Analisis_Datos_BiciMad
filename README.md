@@ -16,3 +16,6 @@ BiciMad tratándolos como un RDD. Un ejemplo de ejecución en el clúster sería
 - usuarios_unicos_por_dia.txt y usuarios_unicos_por_mes.txt son los datos obtenidos sobre el estudio de la cantidad de usuarios únicos (es decir, sin contar si utilizan más de una vez BICIMAD en el mismo día) por día y por mes.
 - viajes_mismo_origen_destino_por_estacion.txt corresponde a la cantidad total de usos de BICIMAD donde las estación de enganche y de desenganche han sido las mismas.
 
+AUTORES:
+- Ignacio Fernández Sánchez-Pascuala.
+- Javier Castellano Soria.
